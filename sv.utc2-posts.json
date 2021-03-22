@@ -1,0 +1,3208 @@
+{
+   "data": [
+      {
+         "created_time": "2021-03-18T05:29:15+0000",
+         "message": "R\u01a0I - NH\u1eb6T\nB\u1ea1n n\u00e0o m\u1ea5t li\u00ean h\u1ec7 FB n\u00e0y nh\u00e9. Ai bi\u1ebft b\u1ea1n n\u00e0y tag gi\u00fap ad nha\nhttps://www.facebook.com/truyen.nguyen.142240\n#KK",
+         "actions": [
+            {
+               "name": "Like",
+               "link": "https://www.facebook.com/188779444526466/posts/5180024708735223/"
+            },
+            {
+               "name": "Comment",
+               "link": "https://www.facebook.com/188779444526466/posts/5180024708735223/"
+            }
+         ],
+         "comments": {
+            "data": [
+               {
+                  "created_time": "2021-03-18T05:56:06+0000",
+                  "message": "B\u00edch H\u01b0\u1eddng conbe ther th\u1ea9n \ud83e\udd23",
+                  "can_remove": false,
+                  "like_count": 0,
+                  "message_tags": [
+                     {
+                        "id": "100013532131865",
+                        "length": 10,
+                        "name": "B\u00edch H\u01b0\u1eddng",
+                        "offset": 0,
+                        "type": "user"
+                     }
+                  ],
+                  "user_likes": false,
+                  "id": "5180024708735223_5180092775395083"
+               },
+               {
+                  "created_time": "2021-03-18T05:34:12+0000",
+                  "message": "B\u00edch H\u01b0\u1eddng ",
+                  "can_remove": false,
+                  "like_count": 0,
+                  "message_tags": [
+                     {
+                        "id": "100013532131865",
+                        "length": 10,
+                        "name": "B\u00edch H\u01b0\u1eddng",
+                        "offset": 0,
+                        "type": "user"
+                     }
+                  ],
+                  "user_likes": false,
+                  "id": "5180024708735223_5180038012067226"
+               },
+               {
+                  "created_time": "2021-03-18T05:47:00+0000",
+                  "message": "Nguy\u1ec5n H\u1eefu Duy ",
+                  "can_remove": false,
+                  "like_count": 0,
+                  "message_tags": [
+                     {
+                        "id": "100028817210483",
+                        "length": 14,
+                        "name": "Nguy\u1ec5n H\u1eefu Duy",
+                        "offset": 0,
+                        "type": "user"
+                     }
+                  ],
+                  "user_likes": false,
+                  "id": "5180024708735223_5180070305397330"
+               },
+               {
+                  "created_time": "2021-03-19T07:35:43+0000",
+                  "message": ".",
+                  "can_remove": false,
+                  "like_count": 0,
+                  "user_likes": false,
+                  "id": "5180024708735223_5184792338258460"
+               }
+            ],
+            "paging": {
+               "cursors": {
+                  "before": "NAZDZD",
+                  "after": "MQZDZD"
+               }
+            }
+         },
+         "from": {
+            "name": "H\u1ed9i Qu\u00e1n Sinh Vi\u00ean \u0110\u1ea1i H\u1ecdc Giao Th\u00f4ng V\u1eadn T\u1ea3i Ph\u00e2n hi\u1ec7u t\u1ea1i TP.HCM",
+            "category": "College & University",
+            "category_list": [
+               {
+                  "id": "2602",
+                  "name": "College & University"
+               },
+               {
+                  "id": "2601",
+                  "name": "School"
+               }
+            ],
+            "id": "188779444526466"
+         },
+         "icon": "https://www.facebook.com/images/icons/photo.gif",
+         "is_hidden": false,
+         "is_expired": false,
+         "link": "https://www.facebook.com/SV.UTC2/photos/a.707966249274447/5180024632068564/?type=3",
+         "message_tags": {
+            "75": [
+               {
+                  "id": 100006253779818,
+                  "name": "Nguy\u1ec5n V\u0103n Truy\u1ec1n",
+                  "type": "user",
+                  "offset": 75,
+                  "length": 45
+               }
+            ],
+            "121": [
+               {
+                  "id": 588380134510239,
+                  "name": "#KK",
+                  "offset": 121,
+                  "length": 3
+               }
+            ]
+         },
+         "object_id": "5180024632068564",
+         "picture": "https://scontent.fsgn12-1.fna.fbcdn.net/v/t1.0-0/s130x130/160287377_5180024635401897_7831243761846638777_o.jpg?_nc_cat=101&ccb=1-3&_nc_sid=110474&_nc_ohc=5A6Awv_c_fYAX9HPiZT&_nc_ht=scontent.fsgn12-1.fna&tp=7&oh=e088e28dfa7a0ea23cb63b73bf26d932&oe=607C73EC",
+         "privacy": {
+            "allow": "",
+            "deny": "",
+            "description": "Public",
+            "friends": "",
+            "value": "EVERYONE"
+         },
+         "status_type": "added_photos",
+         "subscribed": false,
+         "to": {
+            "data": [
+               {
+                  "id": "588380134510239",
+                  "name": "#KK"
+               }
+            ]
+         },
+         "type": "photo",
+         "updated_time": "2021-03-19T07:35:43+0000",
+         "id": "188779444526466_5180024708735223"
+      },
+      {
+         "created_time": "2021-03-12T10:45:54+0000",
+         "message": "R\u01a0I - NH\u1eb6T\nB\u1ea1n n\u00e0o m\u1ea5t li\u00ean h\u1ec7 FB b\u1ea1n n\u00e0y nh\u00e9. Ai bi\u1ebft tag b\u1ea1n \u1ea5y v\u00f4 gi\u00fap ad nha\nhttps://www.facebook.com/profile.php?id=100006337338411\n#KK",
+         "actions": [
+            {
+               "name": "Like",
+               "link": "https://www.facebook.com/188779444526466/posts/5154459751291719/"
+            },
+            {
+               "name": "Comment",
+               "link": "https://www.facebook.com/188779444526466/posts/5154459751291719/"
+            }
+         ],
+         "comments": {
+            "data": [
+               {
+                  "created_time": "2021-03-12T10:51:56+0000",
+                  "message": "D\u1ea1 em c\u1ea3m \u01a1n ad nhi\u1ec1u \u1ea1 \ud83d\ude0d",
+                  "can_remove": false,
+                  "like_count": 0,
+                  "user_likes": false,
+                  "id": "5154459751291719_5154477111289983"
+               },
+               {
+                  "created_time": "2021-03-12T14:46:04+0000",
+                  "message": "https://www.facebook.com/thang.he.10236115  x\u00f3m ch\u00fa \u0111\u1ea5y",
+                  "can_remove": false,
+                  "like_count": 0,
+                  "message_tags": [
+                     {
+                        "id": "100006618214334",
+                        "length": 42,
+                        "name": "Th\u00e0nh \u0110\u1ea1t",
+                        "offset": 0,
+                        "type": "user"
+                     }
+                  ],
+                  "user_likes": false,
+                  "id": "5154459751291719_5155239621213732"
+               },
+               {
+                  "created_time": "2021-03-14T14:54:08+0000",
+                  "message": "R\u1ed3i c\u00f3 ny ch\u01b0a b\u00e9 Kh\u00e1nh Qu\u1ef3nh ",
+                  "can_remove": false,
+                  "like_count": 0,
+                  "message_tags": [
+                     {
+                        "id": "100010909507160",
+                        "length": 11,
+                        "name": "Kh\u00e1nh Qu\u1ef3nh",
+                        "offset": 18,
+                        "type": "user"
+                     }
+                  ],
+                  "user_likes": false,
+                  "id": "5154459751291719_5163458283725199"
+               }
+            ],
+            "paging": {
+               "cursors": {
+                  "before": "MwZDZD",
+                  "after": "MQZDZD"
+               }
+            }
+         },
+         "from": {
+            "name": "H\u1ed9i Qu\u00e1n Sinh Vi\u00ean \u0110\u1ea1i H\u1ecdc Giao Th\u00f4ng V\u1eadn T\u1ea3i Ph\u00e2n hi\u1ec7u t\u1ea1i TP.HCM",
+            "category": "College & University",
+            "category_list": [
+               {
+                  "id": "2602",
+                  "name": "College & University"
+               },
+               {
+                  "id": "2601",
+                  "name": "School"
+               }
+            ],
+            "id": "188779444526466"
+         },
+         "icon": "https://www.facebook.com/images/icons/photo.gif",
+         "is_hidden": false,
+         "is_expired": false,
+         "link": "https://www.facebook.com/SV.UTC2/photos/a.707966249274447/5154459501291744/?type=3",
+         "message_tags": {
+            "137": [
+               {
+                  "id": 588380134510239,
+                  "name": "#KK",
+                  "offset": 137,
+                  "length": 3
+               }
+            ]
+         },
+         "name": "Photos from H\u1ed9i Qu\u00e1n Sinh Vi\u00ean \u0110\u1ea1i H\u1ecdc Giao Th\u00f4ng V\u1eadn T\u1ea3i Ph\u00e2n hi\u1ec7u t\u1ea1i TP.HCM's post",
+         "object_id": "5154459501291744",
+         "picture": "https://scontent.fsgn6-1.fna.fbcdn.net/v/t1.0-0/s130x130/159108625_5154459507958410_8127565693215575162_o.jpg?_nc_cat=109&ccb=1-3&_nc_sid=110474&_nc_ohc=WXdwjluDWbgAX87hYzE&_nc_ht=scontent.fsgn6-1.fna&tp=7&oh=d36228633f9d98fdb6de567ff357c301&oe=607FCE4D",
+         "privacy": {
+            "allow": "",
+            "deny": "",
+            "description": "Public",
+            "friends": "",
+            "value": "EVERYONE"
+         },
+         "shares": {
+            "count": 1
+         },
+         "status_type": "added_photos",
+         "subscribed": false,
+         "to": {
+            "data": [
+               {
+                  "id": "588380134510239",
+                  "name": "#KK"
+               }
+            ]
+         },
+         "type": "photo",
+         "updated_time": "2021-03-14T15:00:46+0000",
+         "id": "188779444526466_5154459751291719"
+      },
+      {
+         "created_time": "2021-02-14T06:49:03+0000",
+         "message": "Ad m\u1edbi th\u1ea5y th\u00f4ng b\u00e1o n\u00e0y =)))))\nTP.HCM cho ph\u00e9p h\u1ecdc sinh, sinh vi\u00ean, h\u1ecdc vi\u00ean ng\u1eebng \u0111\u1ebfn tr\u01b0\u1eddng t\u1eeb sau t\u1ebft \u0111\u1ebfn h\u1ebft 28/2, ti\u1ebfp t\u1ee5c h\u1ecdc online \u0111\u1ec3 \u0111\u1ea3m b\u1ea3o k\u1ebf ho\u1ea1ch th\u1eddi gian h\u1ecdc",
+         "actions": [
+            {
+               "name": "Like",
+               "link": "https://www.facebook.com/188779444526466/posts/5030161070388255/"
+            },
+            {
+               "name": "Comment",
+               "link": "https://www.facebook.com/188779444526466/posts/5030161070388255/"
+            }
+         ],
+         "comments": {
+            "data": [
+               {
+                  "created_time": "2021-02-14T08:17:04+0000",
+                  "message": "Xu\u00e2n Tr\u1ea7n c\u1ea3 tp hcm nha\ud83d\udc4d",
+                  "can_remove": false,
+                  "like_count": 0,
+                  "message_tags": [
+                     {
+                        "id": "100015645213704",
+                        "length": 9,
+                        "name": "Xu\u00e2n Tr\u1ea7n",
+                        "offset": 0,
+                        "type": "user"
+                     }
+                  ],
+                  "user_likes": false,
+                  "id": "5030161070388255_5030410163696679"
+               },
+               {
+                  "created_time": "2021-02-14T06:55:12+0000",
+                  "message": "V\u1eady Tr\u01b0\u1eddng m\u00ecnh v\u1eabn h\u1ecdc online 2tu\u1ea7n \u0111\u1ea7u \u0111\u00fang ko ad",
+                  "can_remove": false,
+                  "like_count": 0,
+                  "user_likes": false,
+                  "id": "5030161070388255_5030177487053280"
+               },
+               {
+                  "created_time": "2021-02-14T06:54:27+0000",
+                  "message": "Tr\u01b0\u1eddng m\u00ecnh onl 2 tu\u1ea7n \u0111\u1ea7u m\u00e0 ad",
+                  "can_remove": false,
+                  "like_count": 0,
+                  "user_likes": false,
+                  "id": "5030161070388255_5030175557053473"
+               },
+               {
+                  "created_time": "2021-02-14T07:19:14+0000",
+                  "message": "V\u1eady c\u00f2n v\u1ee5 \u0111i th\u1ef1c t\u1eadp th\u00ec sao \u1ea1 ad? V\u1eabn \u0111i b\u00ecnh th\u01b0\u1eddng h\u1ea3 ad",
+                  "can_remove": false,
+                  "like_count": 2,
+                  "user_likes": false,
+                  "id": "5030161070388255_5030244553713240"
+               },
+               {
+                  "created_time": "2021-02-14T06:56:03+0000",
+                  "message": "Kh\u1eafc \u00c1i ",
+                  "can_remove": false,
+                  "like_count": 0,
+                  "message_tags": [
+                     {
+                        "id": "100017759622386",
+                        "length": 7,
+                        "name": "Kh\u1eafc \u00c1i",
+                        "offset": 0,
+                        "type": "user"
+                     }
+                  ],
+                  "user_likes": false,
+                  "id": "5030161070388255_5030179910386371"
+               }
+            ],
+            "paging": {
+               "cursors": {
+                  "before": "NQZDZD",
+                  "after": "MQZDZD"
+               }
+            }
+         },
+         "from": {
+            "name": "H\u1ed9i Qu\u00e1n Sinh Vi\u00ean \u0110\u1ea1i H\u1ecdc Giao Th\u00f4ng V\u1eadn T\u1ea3i Ph\u00e2n hi\u1ec7u t\u1ea1i TP.HCM",
+            "category": "College & University",
+            "category_list": [
+               {
+                  "id": "2602",
+                  "name": "College & University"
+               },
+               {
+                  "id": "2601",
+                  "name": "School"
+               }
+            ],
+            "id": "188779444526466"
+         },
+         "icon": "https://www.facebook.com/images/icons/photo.gif",
+         "is_hidden": false,
+         "is_expired": false,
+         "link": "https://www.facebook.com/SV.UTC2/photos/a.707966249274447/5030160997054929/?type=3",
+         "object_id": "5030160997054929",
+         "picture": "https://scontent.fsgn6-1.fna.fbcdn.net/v/t1.0-0/s130x130/149185907_5030161000388262_3747951959608231742_n.jpg?_nc_cat=110&ccb=1-3&_nc_sid=110474&_nc_ohc=HtH0UcbqTqkAX90UBki&_nc_ht=scontent.fsgn6-1.fna&tp=7&oh=f228f21618c9c2024bbd7352c7d40d45&oe=607ECF2B",
+         "privacy": {
+            "allow": "",
+            "deny": "",
+            "description": "Public",
+            "friends": "",
+            "value": "EVERYONE"
+         },
+         "shares": {
+            "count": 1
+         },
+         "status_type": "added_photos",
+         "subscribed": false,
+         "type": "photo",
+         "updated_time": "2021-02-14T08:50:31+0000",
+         "id": "188779444526466_5030161070388255"
+      },
+      {
+         "created_time": "2021-01-28T11:04:03+0000",
+         "message": "Th\u00f4ng b\u00e1o v\u1ec1 vi\u1ec7c tri\u1ec3n khai gi\u1ea3ng d\u1ea1y v\u00e0 h\u1ecdc t\u1eadp tr\u1ef1c tuy\u1ebfn h\u1ecdc k\u1ef3 II n\u0103m h\u1ecdc 2020-2021\n\nP/s: T\u00ecnh h\u00ecnh d\u1ecbch \u0111ang n\u00f3ng tr\u1edf l\u1ea1i. C\u00e1c b\u1ea1n \u0111i l\u1ea1i n\u00ean c\u1ea9n th\u1eadn, c\u00f3 bi\u1ec7n ph\u00e1p b\u1ea3o v\u1ec7 cho b\u1ea3n th\u00e2n nh\u00e9",
+         "actions": [
+            {
+               "name": "Like",
+               "link": "https://www.facebook.com/188779444526466/posts/4960448974026132/"
+            },
+            {
+               "name": "Comment",
+               "link": "https://www.facebook.com/188779444526466/posts/4960448974026132/"
+            }
+         ],
+         "comments": {
+            "data": [
+               {
+                  "created_time": "2021-01-28T14:24:56+0000",
+                  "message": "Tien Hao Nguyen  h\u1ecdc v\u1ea7y vui n\u00e8 ",
+                  "can_remove": false,
+                  "like_count": 0,
+                  "message_tags": [
+                     {
+                        "id": "100026694346684",
+                        "length": 15,
+                        "name": "Tien Hao Nguyen",
+                        "offset": 0,
+                        "type": "user"
+                     }
+                  ],
+                  "user_likes": false,
+                  "id": "4960448974026132_4961112797293083"
+               },
+               {
+                  "created_time": "2021-01-28T15:19:36+0000",
+                  "message": "Nguy\u1ec5n Ng\u1ecdc Trung Ki\u00ean g\u00f2i xong v\u00e9 m\u00e1y bay c\u1ee7a em",
+                  "can_remove": false,
+                  "like_count": 0,
+                  "message_tags": [
+                     {
+                        "id": "100006721564651",
+                        "length": 22,
+                        "name": "Nguy\u1ec5n Ng\u1ecdc Trung Ki\u00ean",
+                        "offset": 0,
+                        "type": "user"
+                     }
+                  ],
+                  "user_likes": false,
+                  "id": "4960448974026132_4961296387274724"
+               },
+               {
+                  "created_time": "2021-01-28T11:49:28+0000",
+                  "message": "Ng\u1ecdc Mai ",
+                  "can_remove": false,
+                  "like_count": 0,
+                  "message_tags": [
+                     {
+                        "id": "100010499386586",
+                        "length": 8,
+                        "name": "Ng\u1ecdc Mai",
+                        "offset": 0,
+                        "type": "user"
+                     }
+                  ],
+                  "user_likes": false,
+                  "id": "4960448974026132_4960592060678490"
+               }
+            ],
+            "paging": {
+               "cursors": {
+                  "before": "MwZDZD",
+                  "after": "MQZDZD"
+               }
+            }
+         },
+         "from": {
+            "name": "H\u1ed9i Qu\u00e1n Sinh Vi\u00ean \u0110\u1ea1i H\u1ecdc Giao Th\u00f4ng V\u1eadn T\u1ea3i Ph\u00e2n hi\u1ec7u t\u1ea1i TP.HCM",
+            "category": "College & University",
+            "category_list": [
+               {
+                  "id": "2602",
+                  "name": "College & University"
+               },
+               {
+                  "id": "2601",
+                  "name": "School"
+               }
+            ],
+            "id": "188779444526466"
+         },
+         "icon": "https://www.facebook.com/images/icons/photo.gif",
+         "is_hidden": false,
+         "is_expired": false,
+         "link": "https://www.facebook.com/SV.UTC2/photos/a.707966249274447/4960448664026163/?type=3",
+         "name": "Photos from H\u1ed9i Qu\u00e1n Sinh Vi\u00ean \u0110\u1ea1i H\u1ecdc Giao Th\u00f4ng V\u1eadn T\u1ea3i Ph\u00e2n hi\u1ec7u t\u1ea1i TP.HCM's post",
+         "object_id": "4960448664026163",
+         "picture": "https://scontent.fsgn6-2.fna.fbcdn.net/v/t1.0-0/p100x100/143915101_4960448667359496_6570239229789179125_o.jpg?_nc_cat=111&ccb=1-3&_nc_sid=110474&_nc_ohc=UnGeR3HT-_MAX9PofRM&_nc_ht=scontent.fsgn6-2.fna&tp=6&oh=d6930fcb944aa8ab4a2a684d0fe3db20&oe=607F4104",
+         "privacy": {
+            "allow": "",
+            "deny": "",
+            "description": "Public",
+            "friends": "",
+            "value": "EVERYONE"
+         },
+         "shares": {
+            "count": 17
+         },
+         "status_type": "added_photos",
+         "subscribed": false,
+         "type": "photo",
+         "updated_time": "2021-01-28T15:23:59+0000",
+         "id": "188779444526466_4960448974026132"
+      },
+      {
+         "created_time": "2021-01-05T00:41:29+0000",
+         "message": "M\u1ecdi th\u1ee9 c\u00f3 v\u1ebb v\u1eabn \u0111ang quay v\u00f2ng v\u00f2ng c\u00e1c b\u1ea1n nh\u1ec9 \ud83d\ude02\n\n#LP",
+         "actions": [
+            {
+               "name": "Like",
+               "link": "https://www.facebook.com/188779444526466/posts/4857964024274628/"
+            },
+            {
+               "name": "Comment",
+               "link": "https://www.facebook.com/188779444526466/posts/4857964024274628/"
+            }
+         ],
+         "comments": {
+            "data": [
+               {
+                  "created_time": "2021-01-05T01:21:15+0000",
+                  "message": "V\u00e0 b\u00e2y gi\u1edd :)))",
+                  "can_remove": false,
+                  "like_count": 0,
+                  "user_likes": false,
+                  "id": "4857964024274628_4858057594265271"
+               },
+               {
+                  "created_time": "2021-01-05T00:42:54+0000",
+                  "message": "\u0110\u01b0\u1ee3c h\u1eb3n 1 m\u00f4n \ud83d\ude42",
+                  "can_remove": false,
+                  "like_count": 0,
+                  "user_likes": false,
+                  "id": "4857964024274628_4857967647607599"
+               },
+               {
+                  "created_time": "2021-01-05T01:16:54+0000",
+                  "message": "quay \u0111\u1ec1u quay \u0111\u1ec1u :vv ",
+                  "can_remove": false,
+                  "like_count": 0,
+                  "user_likes": false,
+                  "id": "4857964024274628_4858047530932944"
+               },
+               {
+                  "created_time": "2021-01-05T01:26:30+0000",
+                  "message": "Quay nh\u01b0 tr\u00e1i \u0111\u1ea5t quay quanh tr\u1ee5c  v \u00e1 ko bh d\u1eebng",
+                  "can_remove": false,
+                  "like_count": 0,
+                  "user_likes": false,
+                  "id": "4857964024274628_4858071414263889"
+               },
+               {
+                  "created_time": "2021-01-05T00:44:10+0000",
+                  "message": "K\u00ec n\u00e0y c\u00f3 v\u1ebb IT l\u00e0m t\u1ed1t nh\u1ea5t r\u1ed3i =)))",
+                  "can_remove": false,
+                  "like_count": 0,
+                  "user_likes": false,
+                  "id": "4857964024274628_4857971687607195"
+               },
+               {
+                  "created_time": "2021-01-05T04:58:55+0000",
+                  "message": "Toang r c\u00f3 khi n\u00e0o h\u1ebft slot k ad )):",
+                  "can_remove": false,
+                  "like_count": 0,
+                  "user_likes": false,
+                  "id": "4857964024274628_4858671344203896"
+               },
+               {
+                  "created_time": "2021-01-05T03:33:44+0000",
+                  "message": "mn l\u00ean app cho nhanh :))",
+                  "can_remove": false,
+                  "like_count": 0,
+                  "user_likes": false,
+                  "id": "4857964024274628_4858460754224955"
+               },
+               {
+                  "created_time": "2021-01-05T01:19:45+0000",
+                  "message": "web tr\u01b0\u1eddng laggg nh\u01b0ng ae ta \u0111\u00f4ng:))",
+                  "can_remove": false,
+                  "like_count": 0,
+                  "user_likes": false,
+                  "id": "4857964024274628_4858054070932290"
+               },
+               {
+                  "created_time": "2021-01-05T00:58:00+0000",
+                  "message": "chan",
+                  "can_remove": false,
+                  "like_count": 0,
+                  "user_likes": false,
+                  "id": "4857964024274628_4858002467604117"
+               },
+               {
+                  "created_time": "2021-01-05T01:13:08+0000",
+                  "message": "\ud83d\ude05",
+                  "can_remove": false,
+                  "like_count": 0,
+                  "user_likes": false,
+                  "id": "4857964024274628_4858038227600541"
+               }
+            ],
+            "paging": {
+               "cursors": {
+                  "before": "MTEZD",
+                  "after": "MgZDZD"
+               }
+            }
+         },
+         "from": {
+            "name": "H\u1ed9i Qu\u00e1n Sinh Vi\u00ean \u0110\u1ea1i H\u1ecdc Giao Th\u00f4ng V\u1eadn T\u1ea3i Ph\u00e2n hi\u1ec7u t\u1ea1i TP.HCM",
+            "category": "College & University",
+            "category_list": [
+               {
+                  "id": "2602",
+                  "name": "College & University"
+               },
+               {
+                  "id": "2601",
+                  "name": "School"
+               }
+            ],
+            "id": "188779444526466"
+         },
+         "icon": "https://www.facebook.com/images/icons/photo.gif",
+         "is_hidden": false,
+         "is_expired": false,
+         "link": "https://www.facebook.com/SV.UTC2/photos/a.188823344522076/4857962354274795/?type=3",
+         "message_tags": {
+            "53": [
+               {
+                  "id": 273866919413915,
+                  "name": "#LP",
+                  "offset": 53,
+                  "length": 3
+               }
+            ]
+         },
+         "object_id": "4857962354274795",
+         "picture": "https://scontent.fsgn6-2.fna.fbcdn.net/v/t1.0-0/s130x130/135213852_4857962357608128_289202452723242549_o.jpg?_nc_cat=100&ccb=1-3&_nc_sid=8024bb&_nc_ohc=JJrjEmB4fr0AX-cTRSo&_nc_ht=scontent.fsgn6-2.fna&tp=7&oh=4f7ed9f8ed9fb92c4d094ab146094c31&oe=607D48A0",
+         "privacy": {
+            "allow": "",
+            "deny": "",
+            "description": "Public",
+            "friends": "",
+            "value": "EVERYONE"
+         },
+         "shares": {
+            "count": 1
+         },
+         "status_type": "added_photos",
+         "subscribed": false,
+         "to": {
+            "data": [
+               {
+                  "id": "273866919413915",
+                  "name": "#LP"
+               }
+            ]
+         },
+         "type": "photo",
+         "updated_time": "2021-01-05T04:58:55+0000",
+         "id": "188779444526466_4857964024274628"
+      },
+      {
+         "created_time": "2021-01-04T01:53:54+0000",
+         "message": "Th\u00f4ng b\u00e1o v\u1ec1 vi\u1ec7c t\u1ed5 ch\u1ee9c h\u1ecdc k\u1ef3 II n\u0103m h\u1ecdc 2020-2021 h\u1ec7 \u0110\u1ea1i h\u1ecdc ch\u00ednh quy\n\n\ud83d\udc49 C\u00e1c b\u1ea1n l\u01b0u \u00fd v\u1ec1 l\u1ecbch \u0111\u0103ng k\u00fd l\u1edbp h\u1ecdc ph\u1ea7n v\u00e0o ng\u00e0y mai nh\u00e9. \n\ud83d\udc49 H\u01b0\u1eddng d\u1eabn \u0111\u00f3ng ti\u1ec1n qua Viettel Pay, H\u01b0\u1edbng d\u1eabn \u0111\u0103ng k\u00fd b\u1ed5 sung c\u00e1c b\u1ea1n c\u00f3 th\u1ec3 coi h\u01b0\u1edbng d\u1eabn \u1edf link sau: https://utc2.edu.vn/thong-bao-ve-viec-to-chuc-hoc-ky-ii-nam-hoc-20202021-he-dai-hoc-chinh-quy-7395\n\n#LP",
+         "actions": [
+            {
+               "name": "Like",
+               "link": "https://www.facebook.com/188779444526466/posts/4854363831301314/"
+            },
+            {
+               "name": "Comment",
+               "link": "https://www.facebook.com/188779444526466/posts/4854363831301314/"
+            }
+         ],
+         "comments": {
+            "data": [
+               {
+                  "created_time": "2021-01-04T02:23:11+0000",
+                  "message": "Th\u01b0 Minh",
+                  "can_remove": false,
+                  "like_count": 0,
+                  "message_tags": [
+                     {
+                        "id": "100005572148007",
+                        "length": 8,
+                        "name": "Minh Th\u01b0",
+                        "offset": 0,
+                        "type": "user"
+                     }
+                  ],
+                  "user_likes": false,
+                  "id": "4854363831301314_4854435507960813"
+               },
+               {
+                  "created_time": "2021-01-04T01:55:24+0000",
+                  "message": "B\u00e1 V\u01b0\u01a1ng",
+                  "can_remove": false,
+                  "like_count": 0,
+                  "message_tags": [
+                     {
+                        "id": "100006350432499",
+                        "length": 8,
+                        "name": "B\u00e1 V\u01b0\u01a1ng",
+                        "offset": 0,
+                        "type": "user"
+                     }
+                  ],
+                  "user_likes": false,
+                  "id": "4854363831301314_4854367204634310"
+               },
+               {
+                  "created_time": "2021-01-11T11:01:04+0000",
+                  "message": "Ph\u01b0\u01a1ng LamM\u1ef9 L\u1ec7 Nguy\u1ec5n",
+                  "can_remove": false,
+                  "like_count": 0,
+                  "message_tags": [
+                     {
+                        "id": "100007192263739",
+                        "length": 10,
+                        "name": "Ph\u01b0\u01a1ng Lam",
+                        "offset": 0,
+                        "type": "user"
+                     },
+                     {
+                        "id": "100008197991195",
+                        "length": 12,
+                        "name": "M\u1ef9 L\u1ec7 Nguy\u1ec5n",
+                        "offset": 10,
+                        "type": "user"
+                     }
+                  ],
+                  "user_likes": false,
+                  "id": "4854363831301314_4885195631551467"
+               },
+               {
+                  "created_time": "2021-01-04T02:11:09+0000",
+                  "message": "Quang \u0110\u1ee9c L\u00ea ",
+                  "can_remove": false,
+                  "like_count": 0,
+                  "message_tags": [
+                     {
+                        "id": "100010817108508",
+                        "length": 12,
+                        "name": "L\u00ea Quang \u0110\u1ee9c",
+                        "offset": 0,
+                        "type": "user"
+                     }
+                  ],
+                  "user_likes": false,
+                  "id": "4854363831301314_4854407247963639"
+               },
+               {
+                  "created_time": "2021-01-04T01:59:05+0000",
+                  "message": "My Duyen ",
+                  "can_remove": false,
+                  "like_count": 0,
+                  "message_tags": [
+                     {
+                        "id": "100015818460548",
+                        "length": 8,
+                        "name": "My Duyen",
+                        "offset": 0,
+                        "type": "user"
+                     }
+                  ],
+                  "user_likes": false,
+                  "id": "4854363831301314_4854376167966747"
+               },
+               {
+                  "created_time": "2021-01-04T06:14:43+0000",
+                  "message": "C\u00f3 ti\u1ec1n m\u1edbi \u0111k \u0111c hay sao a,  hay l\u00e0 \u0111k tr\u01b0\u1edbc thanh to\u00e1n sau.",
+                  "can_remove": false,
+                  "like_count": 0,
+                  "user_likes": false,
+                  "id": "4854363831301314_4855054997898864"
+               },
+               {
+                  "created_time": "2021-01-04T10:37:20+0000",
+                  "message": "Ngoc Pham \u0110\u1ed7 \u0110\u0103ng Ti\u1ebfn ",
+                  "can_remove": false,
+                  "like_count": 0,
+                  "message_tags": [
+                     {
+                        "id": "100030054976532",
+                        "length": 9,
+                        "name": "Ngoc Pham",
+                        "offset": 0,
+                        "type": "user"
+                     },
+                     {
+                        "id": "100005719417329",
+                        "length": 12,
+                        "name": "\u0110\u1ed7 \u0110\u0103ng Ti\u1ebfn",
+                        "offset": 10,
+                        "type": "user"
+                     }
+                  ],
+                  "user_likes": false,
+                  "id": "4854363831301314_4855650641172633"
+               }
+            ],
+            "paging": {
+               "cursors": {
+                  "before": "NwZDZD",
+                  "after": "MQZDZD"
+               }
+            }
+         },
+         "from": {
+            "name": "H\u1ed9i Qu\u00e1n Sinh Vi\u00ean \u0110\u1ea1i H\u1ecdc Giao Th\u00f4ng V\u1eadn T\u1ea3i Ph\u00e2n hi\u1ec7u t\u1ea1i TP.HCM",
+            "category": "College & University",
+            "category_list": [
+               {
+                  "id": "2602",
+                  "name": "College & University"
+               },
+               {
+                  "id": "2601",
+                  "name": "School"
+               }
+            ],
+            "id": "188779444526466"
+         },
+         "icon": "https://www.facebook.com/images/icons/photo.gif",
+         "is_hidden": false,
+         "is_expired": false,
+         "link": "https://www.facebook.com/SV.UTC2/photos/a.188823344522076/4854360771301620/?type=3",
+         "message_tags": {
+            "346": [
+               {
+                  "id": 273866919413915,
+                  "name": "#LP",
+                  "offset": 346,
+                  "length": 3
+               }
+            ]
+         },
+         "object_id": "4854360771301620",
+         "picture": "https://scontent.fsgn12-1.fna.fbcdn.net/v/t1.0-0/s130x130/134141797_4854360774634953_9094945531837732757_o.jpg?_nc_cat=102&ccb=1-3&_nc_sid=8024bb&_nc_ohc=TvPdDqH8ZrkAX90HG2T&_nc_ht=scontent.fsgn12-1.fna&tp=7&oh=82c8e28e966e984093bd94fc96c8c7bb&oe=607D2363",
+         "privacy": {
+            "allow": "",
+            "deny": "",
+            "description": "Public",
+            "friends": "",
+            "value": "EVERYONE"
+         },
+         "shares": {
+            "count": 33
+         },
+         "status_type": "added_photos",
+         "subscribed": false,
+         "to": {
+            "data": [
+               {
+                  "id": "273866919413915",
+                  "name": "#LP"
+               }
+            ]
+         },
+         "type": "photo",
+         "updated_time": "2021-01-11T11:01:04+0000",
+         "id": "188779444526466_4854363831301314"
+      },
+      {
+         "created_time": "2021-01-02T06:30:52+0000",
+         "message": "[R\u01a1i - Nh\u1eb7t] \nB\u1ea1n Qui li\u00ean h\u1ec7 ch\u1ed7 ph\u00f2ng b\u1ea3o v\u1ec7 c\u00f4ng ty tr\u01b0\u1eddng \u0111\u1ec3 nh\u1eadn l\u1ea1i th\u1ebb sinh vi\u00ean nh\u00e9. \nAi bi\u1ebft fb b\u1ea1n \u1ea5y tab gi\u00fap ad \n#LP",
+         "actions": [
+            {
+               "name": "Like",
+               "link": "https://www.facebook.com/188779444526466/posts/4847252915345739/"
+            },
+            {
+               "name": "Comment",
+               "link": "https://www.facebook.com/188779444526466/posts/4847252915345739/"
+            }
+         ],
+         "comments": {
+            "data": [
+               {
+                  "created_time": "2021-01-02T06:49:44+0000",
+                  "message": "Truong Dinh Qui",
+                  "can_remove": false,
+                  "like_count": 1,
+                  "message_tags": [
+                     {
+                        "id": "100012494503539",
+                        "length": 15,
+                        "name": "Truong Dinh Qui",
+                        "offset": 0,
+                        "type": "user"
+                     }
+                  ],
+                  "user_likes": false,
+                  "id": "4847252915345739_4847292685341762"
+               },
+               {
+                  "created_time": "2021-01-03T00:32:40+0000",
+                  "message": "Ra trg r\u1ed3i ad \u01a1i",
+                  "can_remove": false,
+                  "like_count": 0,
+                  "user_likes": false,
+                  "id": "4847252915345739_4850176725053358"
+               },
+               {
+                  "created_time": "2021-01-02T06:43:11+0000",
+                  "message": "\u0110\u1ed3ng Ng\u1ecdc \u0110\u0103ng Khoa ",
+                  "can_remove": false,
+                  "like_count": 0,
+                  "message_tags": [
+                     {
+                        "id": "100003022528551",
+                        "length": 19,
+                        "name": "\u0110\u1ed3ng Ng\u1ecdc \u0110\u0103ng Khoa",
+                        "offset": 0,
+                        "type": "user"
+                     }
+                  ],
+                  "user_likes": false,
+                  "id": "4847252915345739_4847278822009815"
+               }
+            ],
+            "paging": {
+               "cursors": {
+                  "before": "MwZDZD",
+                  "after": "MQZDZD"
+               }
+            }
+         },
+         "from": {
+            "name": "H\u1ed9i Qu\u00e1n Sinh Vi\u00ean \u0110\u1ea1i H\u1ecdc Giao Th\u00f4ng V\u1eadn T\u1ea3i Ph\u00e2n hi\u1ec7u t\u1ea1i TP.HCM",
+            "category": "College & University",
+            "category_list": [
+               {
+                  "id": "2602",
+                  "name": "College & University"
+               },
+               {
+                  "id": "2601",
+                  "name": "School"
+               }
+            ],
+            "id": "188779444526466"
+         },
+         "icon": "https://www.facebook.com/images/icons/photo.gif",
+         "is_hidden": false,
+         "is_expired": false,
+         "link": "https://www.facebook.com/SV.UTC2/photos/a.188823344522076/4847248232012874/?type=3",
+         "message_tags": {
+            "125": [
+               {
+                  "id": 273866919413915,
+                  "name": "#LP",
+                  "offset": 125,
+                  "length": 3
+               }
+            ]
+         },
+         "object_id": "4847248232012874",
+         "picture": "https://scontent.fsgn6-1.fna.fbcdn.net/v/t1.0-0/s130x130/135476416_4847248238679540_8157313357270409560_n.jpg?_nc_cat=103&ccb=1-3&_nc_sid=8024bb&_nc_ohc=tOroHH4G60YAX_A97QC&_nc_ht=scontent.fsgn6-1.fna&tp=7&oh=55f71128f7cdd1b47d14cf4a689bf6f5&oe=607E6234",
+         "privacy": {
+            "allow": "",
+            "deny": "",
+            "description": "Public",
+            "friends": "",
+            "value": "EVERYONE"
+         },
+         "status_type": "added_photos",
+         "subscribed": false,
+         "to": {
+            "data": [
+               {
+                  "id": "273866919413915",
+                  "name": "#LP"
+               }
+            ]
+         },
+         "type": "photo",
+         "updated_time": "2021-01-03T01:05:36+0000",
+         "id": "188779444526466_4847252915345739"
+      },
+      {
+         "created_time": "2020-12-27T02:32:23+0000",
+         "message": "L\u1edbp n\u00e0o \u0111\u00e2y! Nh\u00e1 h\u00e0ng tr\u01b0\u1edbc :)) V\u00f4 nh\u1eadn h\u00e0ng nh\u00e9!!!",
+         "actions": [
+            {
+               "name": "Like",
+               "link": "https://www.facebook.com/188779444526466/posts/4823005131103851/"
+            },
+            {
+               "name": "Comment",
+               "link": "https://www.facebook.com/188779444526466/posts/4823005131103851/"
+            }
+         ],
+         "comments": {
+            "data": [
+               {
+                  "created_time": "2020-12-27T02:35:52+0000",
+                  "message": "idol S\u01a1n Phan \u0111\u1eb9p trai qu\u00e1 \u003C3 :D",
+                  "can_remove": false,
+                  "like_count": 0,
+                  "message_tags": [
+                     {
+                        "id": "100004979955977",
+                        "length": 8,
+                        "name": "S\u01a1n Phan",
+                        "offset": 5,
+                        "type": "user"
+                     }
+                  ],
+                  "user_likes": false,
+                  "id": "4823005131103851_4823013757769655"
+               },
+               {
+                  "created_time": "2020-12-27T08:19:53+0000",
+                  "message": "Xin info anh t\u00f3c v\u00e0ng \u1ea1 \ud83e\udd7a",
+                  "can_remove": false,
+                  "like_count": 0,
+                  "user_likes": false,
+                  "id": "4823005131103851_4823807484356949"
+               },
+               {
+                  "created_time": "2020-12-27T05:44:21+0000",
+                  "message": "L\u1edbp to\u00e0n h\u00f3t boi h\u00f3t g\u01a1 th\u1ebf :))))",
+                  "can_remove": false,
+                  "like_count": 1,
+                  "user_likes": false,
+                  "id": "4823005131103851_4823458824391815"
+               },
+               {
+                  "created_time": "2020-12-27T02:50:01+0000",
+                  "message": "Ph\u01b0\u01a1ng Lan nay nh\u00ecn c\u01b0ng d\u1ecb",
+                  "can_remove": false,
+                  "like_count": 0,
+                  "message_tags": [
+                     {
+                        "id": "100008759024189",
+                        "length": 10,
+                        "name": "Ph\u01b0\u01a1ng Lan",
+                        "offset": 0,
+                        "type": "user"
+                     }
+                  ],
+                  "user_likes": false,
+                  "id": "4823005131103851_4823049324432765"
+               },
+               {
+                  "created_time": "2020-12-27T04:18:42+0000",
+                  "message": "To\u00e0n Nguy\u00ean ng\u01b0\u1eddi g\u00ec \u0111\u00e2u \u0111\u1eb9p trai d\u1eef tr\u1eddi \ud83e\udd29",
+                  "can_remove": false,
+                  "like_count": 0,
+                  "message_tags": [
+                     {
+                        "id": "100005206929217",
+                        "length": 11,
+                        "name": "To\u00e0n Nguy\u00ean",
+                        "offset": 0,
+                        "type": "user"
+                     }
+                  ],
+                  "user_likes": false,
+                  "id": "4823005131103851_4823265111077853"
+               },
+               {
+                  "created_time": "2020-12-27T04:26:22+0000",
+                  "message": "Qu\u1ebf V\u0103n Th\u00e1i  gi\u00e0 nh\u1ea5t l\u1edbp :))",
+                  "can_remove": false,
+                  "like_count": 0,
+                  "message_tags": [
+                     {
+                        "id": "100006610599594",
+                        "length": 12,
+                        "name": "Qu\u1ebf V\u0103n Th\u00e1i",
+                        "offset": 0,
+                        "type": "user"
+                     }
+                  ],
+                  "user_likes": false,
+                  "id": "4823005131103851_4823283961075968"
+               }
+            ],
+            "paging": {
+               "cursors": {
+                  "before": "NgZDZD",
+                  "after": "MQZDZD"
+               }
+            }
+         },
+         "from": {
+            "name": "H\u1ed9i Qu\u00e1n Sinh Vi\u00ean \u0110\u1ea1i H\u1ecdc Giao Th\u00f4ng V\u1eadn T\u1ea3i Ph\u00e2n hi\u1ec7u t\u1ea1i TP.HCM",
+            "category": "College & University",
+            "category_list": [
+               {
+                  "id": "2602",
+                  "name": "College & University"
+               },
+               {
+                  "id": "2601",
+                  "name": "School"
+               }
+            ],
+            "id": "188779444526466"
+         },
+         "icon": "https://www.facebook.com/images/icons/photo.gif",
+         "is_hidden": false,
+         "is_expired": false,
+         "link": "https://www.facebook.com/SV.UTC2/photos/a.188823344522076/4822991971105167/?type=3",
+         "name": "Photos from H\u1ed9i Qu\u00e1n Sinh Vi\u00ean \u0110\u1ea1i H\u1ecdc Giao Th\u00f4ng V\u1eadn T\u1ea3i Ph\u00e2n hi\u1ec7u t\u1ea1i TP.HCM's post",
+         "object_id": "4822991971105167",
+         "picture": "https://scontent.fsgn12-1.fna.fbcdn.net/v/t1.0-0/s130x130/132443893_4822991974438500_6317021582493419745_o.jpg?_nc_cat=102&ccb=1-3&_nc_sid=8024bb&_nc_ohc=OXaF3R_C0l8AX_afOLZ&_nc_ht=scontent.fsgn12-1.fna&tp=7&oh=f4773187f8a34d2bfc561f4d61ab32b0&oe=60803299",
+         "privacy": {
+            "allow": "",
+            "deny": "",
+            "description": "Public",
+            "friends": "",
+            "value": "EVERYONE"
+         },
+         "status_type": "added_photos",
+         "subscribed": false,
+         "type": "photo",
+         "updated_time": "2020-12-27T16:16:08+0000",
+         "id": "188779444526466_4823005131103851"
+      },
+      {
+         "created_time": "2020-12-22T01:12:16+0000",
+         "message": "22/12/2020 \u2764\ufe0f\u2764\ufe0f\u2764\ufe0f\n\n#LP",
+         "actions": [
+            {
+               "name": "Like",
+               "link": "https://www.facebook.com/188779444526466/posts/4803435653060799/"
+            },
+            {
+               "name": "Comment",
+               "link": "https://www.facebook.com/188779444526466/posts/4803435653060799/"
+            }
+         ],
+         "from": {
+            "name": "H\u1ed9i Qu\u00e1n Sinh Vi\u00ean \u0110\u1ea1i H\u1ecdc Giao Th\u00f4ng V\u1eadn T\u1ea3i Ph\u00e2n hi\u1ec7u t\u1ea1i TP.HCM",
+            "category": "College & University",
+            "category_list": [
+               {
+                  "id": "2602",
+                  "name": "College & University"
+               },
+               {
+                  "id": "2601",
+                  "name": "School"
+               }
+            ],
+            "id": "188779444526466"
+         },
+         "icon": "https://www.facebook.com/images/icons/photo.gif",
+         "is_hidden": false,
+         "is_expired": false,
+         "link": "https://www.facebook.com/SV.UTC2/photos/a.188823344522076/4803433699727661/?type=3",
+         "message_tags": {
+            "19": [
+               {
+                  "id": 273866919413915,
+                  "name": "#LP",
+                  "offset": 19,
+                  "length": 3
+               }
+            ]
+         },
+         "name": "Photos from H\u1ed9i Qu\u00e1n Sinh Vi\u00ean \u0110\u1ea1i H\u1ecdc Giao Th\u00f4ng V\u1eadn T\u1ea3i Ph\u00e2n hi\u1ec7u t\u1ea1i TP.HCM's post",
+         "object_id": "4803433699727661",
+         "picture": "https://scontent.fsgn6-2.fna.fbcdn.net/v/t1.0-0/s130x130/131681353_4803433703060994_2092545854030940854_o.jpg?_nc_cat=111&ccb=1-3&_nc_sid=8024bb&_nc_ohc=fNVOcvXag3sAX-RhQPA&_nc_ht=scontent.fsgn6-2.fna&tp=7&oh=1fe00fe4d7846a68e817a3a25406dde1&oe=607C6DC0",
+         "privacy": {
+            "allow": "",
+            "deny": "",
+            "description": "Public",
+            "friends": "",
+            "value": "EVERYONE"
+         },
+         "shares": {
+            "count": 1
+         },
+         "status_type": "added_photos",
+         "subscribed": false,
+         "to": {
+            "data": [
+               {
+                  "id": "273866919413915",
+                  "name": "#LP"
+               }
+            ]
+         },
+         "type": "photo",
+         "updated_time": "2020-12-22T01:12:16+0000",
+         "id": "188779444526466_4803435653060799"
+      },
+      {
+         "created_time": "2020-12-21T06:36:58+0000",
+         "message": "\ud83d\udce3\ud83d\udce3\ud83d\udce3[\ud835\udc74\ud835\udc70\ud835\udc75\ud835\udc70\ud835\udc7a\ud835\udc6f\ud835\udc76\ud835\udc7e \ud835\udc6a\ud835\udc6f\ud835\udc7c\ud835\udc80\ud835\udc6c\u0302\u0301\ud835\udc75 \ud835\udc7f\ud835\udc6c \ud835\udc7b\ud835\udc6f\ud835\udc68\ud835\udc75\ud835\udc6f \ud835\udc7f\ud835\udc7c\ud835\udc68\u0302\ud835\udc75 \ud835\udc70\ud835\udc7a \ud835\udc6a\ud835\udc76\ud835\udc74\ud835\udc70\ud835\udc75\ud835\udc6e...]\ud83c\udfb8\ud83c\udfb8\ud83c\udfb8\ud83c\udfb8\n\n\ud83d\udd14\ud83d\udd14Ring ring rang rang! Th\u00e1ng 12 \u0111\u00e3 \u0111i\u1ec3m, m\u00f9a y\u00eau th\u01b0\u01a1ng th\u00edch nh\u1ea5t trong nh\u1ea5t trong n\u0103m l\u1ea1i \u0111\u1ebfn. M\u00f9a Gi\u00e1ng Sinh, kh\u00f4ng ch\u1ec9 l\u00e0 l\u00fac \u0111\u1ec3 t\u1eadn h\u01b0\u1edfng m\u00e0 c\u00f2n l\u00e0 d\u1ecbp \u0111\u1ec3 ch\u00fang ta tri \u00e2n h\u00e0nh tr\u00ecnh \u0111\u00e3 qua. N\u00e1n l\u1ea1i m\u1ed9t ch\u00fat nh\u00ecn xem, xung quanh ta \u0111\u00e3 tr\u00e0n ng\u1eadp kh\u00f4ng kh\u00ed Noel kh\u1eafp ph\u1ed1 r\u1ed3i \u0111\u1ea5y!\n\nH\u00f2a chung v\u1edbi kh\u00f4ng kh\u00ed n\u00e1o n\u1ee9c \u1ea5y, h\u00e3y \u0111\u1ec3 CLB Guitar UTC2 ch\u00fang m\u00ecnh d\u00e0nh t\u1eb7ng b\u1ea1n m\u1ed9t m\u00f3n qu\u00e0 nho nh\u1ecf kh\u00e9p l\u1ea1i 2020 \u0111\u00e1ng nh\u1edb v\u00e0 tr\u1ecdn v\u1eb9n h\u01a1n nh\u00e9!!! \ud83c\udf81\ud83c\udf81\ud83c\udf81\n\n\ud83d\udc49\ud83d\udc49 \u0110\u1ebfn v\u1edbi \ud835\udc74\ud835\udc8a\ud835\udc8f\ud835\udc8a\ud835\udc94\ud835\udc89\ud835\udc90\ud835\udc98 \"\ud835\udc6a\ud835\udc89\ud835\udc96\ud835\udc9a\ud835\udc86\u0302\u0301\ud835\udc8f \ud835\udc7f\ud835\udc86 \ud835\udc7b\ud835\udc89\ud835\udc82\ud835\udc8f\ud835\udc89 \ud835\udc7f\ud835\udc96\ud835\udc82\u0302\ud835\udc8f\" h\u1ee9a h\u1eb9n s\u1ebd l\u00e0 m\u1ed9t cu\u1ed1n b\u0103ng tua ng\u01b0\u1ee3c \u0111\u01b0a ng\u01b0\u1eddi nghe tr\u1edf l\u1ea1i v\u1edbi nh\u1eefng mi\u1ec1n k\u00fd \u1ee9c t\u01b0\u01a1i \u0111\u1eb9p, v\u00e0 s\u00e2u l\u1eafng v\u1edbi t\u1ea5t c\u1ea3 nh\u1eefng k\u00ed \u1ee9c t\u01b0\u01a1i \u0111\u1eb9p l\u1ea1i m\u1ed9t l\u1ea7n n\u1eefa \u0111\u01b0\u1ee3c s\u1ed1ng l\u1ea1i b\u1eb1ng ng\u00f4n ng\u1eef c\u1ee7a \u00e2m nh\u1ea1c \u0111\u1ea7y m\u00e0u s\u1eafc v\u00e0 s\u1ef1 t\u01b0\u01a1i tr\u1ebb. M\u1ed7i b\u00e0i h\u00e1t, m\u1ed7i giai \u0111i\u1ec7u s\u1ebd l\u00e0 nh\u1eefng t\u00e2m t\u01b0, nh\u1eefng c\u00e2u chuy\u1ec7n mang \u0111\u1ea7y k\u1ec9 ni\u1ec7m m\u00e0 \u0111\u00eam nh\u1ea1c mu\u1ed1n g\u1eedi g\u1eafm \u0111\u1ebfn kh\u00e1n gi\u1ea3.\n\nCh\u00fang m\u00ecnh tin ch\u1eafc r\u1eb1ng, b\u01b0\u1edbc l\u00ean c\u00f9ng v\u1edbi Chuy\u1ebfn Xe Thanh Xu\u00e2n ch\u1eafc ch\u1eafn s\u1ebd mang l\u1ea1i cho b\u1ea1n nhi\u1ec1u cung b\u1eadc c\u1ea3m x\u00fac, \u0111\u1eafm ch\u00ecm trong t\u1eebng giai \u0111i\u1ec7u v\u00e0 c\u00f3 v\u1edbi nhau nh\u1eefng k\u1ec9 ni\u1ec7m \u0111\u00e1ng nh\u1edb \u2764\n------------------------------------------------\nN\u1ebfu nh\u01b0 b\u1ea1n l\u00e0 m\u1ed9t ng\u01b0\u1eddi y\u00eau ti\u1ebfng \u0111\u00e0n v\u00e0 giai \u0111i\u1ec7u m\u1ed9c m\u1ea1c th\u00ec h\u00e3y c\u00f9ng ch\u00fang m\u00ecnh \u0111\u1eafm ch\u00ecm v\u00e0o kh\u00f4ng gian \u00e2m nh\u1ea1c t\u1ea1i:\n\n\ud83d\ude83\ud83d\ude83\ud83d\ude83M\ud835\udc08\ud835\udc0d\ud835\udc08\ud835\udc12\ud835\udc07\ud835\udc0e\ud835\udc16 \ud835\udc02\ud835\udc07\ud835\udc14\ud835\udc18\ud835\udc04\u0302\u0301\ud835\udc0d \ud835\udc17\ud835\udc04 \ud835\udc13\ud835\udc07\ud835\udc00\ud835\udc0d\ud835\udc07 \ud835\udc17\ud835\udc14\ud835\udc00\u0302\ud835\udc0d\n\ud83d\udd62Th\u1eddi gian: 19H - Th\u1ee9 4 ng\u00e0y 23/12/2020\n\ud83c\udfe2\u0110\u1ecba \u0111i\u1ec3m: H\u1ed9i tr\u01b0\u1eddng C1 - Tr\u01b0\u1eddng \u0110H GTVT Ph\u00e2n hi\u1ec7u t\u1ea1i TP.HCM\n\ud83d\udce7Email: Clbguitarutc2\u0040gmail.com\n\u260e\ufe0fHotline: 0977898113 (Mr.Ph\u00fac)\nM\u1ecdi th\u00f4ng tin chi ti\u1ebft vui l\u00f2ng li\u00ean h\u1ec7 v\u1ec1 : https://www.facebook.com/clbguitarutc2/\n\n\u003C3 \u003C3 \u003C3 FROM GUF WITH LOVE \u003C3 \u003C3 \n\n#LP",
+         "actions": [
+            {
+               "name": "Like",
+               "link": "https://www.facebook.com/188779444526466/posts/4800277880043243/"
+            },
+            {
+               "name": "Comment",
+               "link": "https://www.facebook.com/188779444526466/posts/4800277880043243/"
+            }
+         ],
+         "comments": {
+            "data": [
+               {
+                  "created_time": "2020-12-22T02:28:21+0000",
+                  "message": "",
+                  "can_remove": false,
+                  "like_count": 0,
+                  "user_likes": false,
+                  "id": "4800277880043243_4803626389708392"
+               },
+               {
+                  "created_time": "2020-12-22T02:19:04+0000",
+                  "message": "",
+                  "can_remove": false,
+                  "like_count": 0,
+                  "user_likes": false,
+                  "id": "4800277880043243_4803603876377310"
+               },
+               {
+                  "created_time": "2020-12-22T02:20:49+0000",
+                  "message": "\u2764\ufe0f\u2764\ufe0f\u2764\ufe0f",
+                  "can_remove": false,
+                  "like_count": 0,
+                  "user_likes": false,
+                  "id": "4800277880043243_4803607926376905"
+               },
+               {
+                  "created_time": "2020-12-22T02:43:42+0000",
+                  "message": "",
+                  "can_remove": false,
+                  "like_count": 0,
+                  "user_likes": false,
+                  "id": "4800277880043243_4803665723037792"
+               },
+               {
+                  "created_time": "2020-12-22T03:21:43+0000",
+                  "message": "",
+                  "can_remove": false,
+                  "like_count": 0,
+                  "user_likes": false,
+                  "id": "4800277880043243_4803769279694103"
+               },
+               {
+                  "created_time": "2020-12-22T02:21:14+0000",
+                  "message": "",
+                  "can_remove": false,
+                  "like_count": 0,
+                  "user_likes": false,
+                  "id": "4800277880043243_4803608943043470"
+               },
+               {
+                  "created_time": "2020-12-22T03:12:43+0000",
+                  "message": "",
+                  "can_remove": false,
+                  "like_count": 0,
+                  "user_likes": false,
+                  "id": "4800277880043243_4803743383030026"
+               },
+               {
+                  "created_time": "2020-12-22T02:26:15+0000",
+                  "message": "Huhu \u0111\u1ebfn v\u1eeba \u0111\u01b0\u1ee3c xem v\u0103n ngh\u1ec7 v\u1eeba l\u1ea1i c\u00f3 ng\u01b0\u1eddi y\u00eau \u0111\u00eam v\u1ec1 th\u00ec c\u00f2n g\u00ec b\u1eb1ng \ud83d\ude44",
+                  "can_remove": false,
+                  "like_count": 0,
+                  "user_likes": false,
+                  "id": "4800277880043243_4803620996375598"
+               }
+            ],
+            "paging": {
+               "cursors": {
+                  "before": "OAZDZD",
+                  "after": "MQZDZD"
+               }
+            }
+         },
+         "from": {
+            "name": "H\u1ed9i Qu\u00e1n Sinh Vi\u00ean \u0110\u1ea1i H\u1ecdc Giao Th\u00f4ng V\u1eadn T\u1ea3i Ph\u00e2n hi\u1ec7u t\u1ea1i TP.HCM",
+            "category": "College & University",
+            "category_list": [
+               {
+                  "id": "2602",
+                  "name": "College & University"
+               },
+               {
+                  "id": "2601",
+                  "name": "School"
+               }
+            ],
+            "id": "188779444526466"
+         },
+         "icon": "https://www.facebook.com/images/icons/photo.gif",
+         "is_hidden": false,
+         "is_expired": false,
+         "link": "https://www.facebook.com/SV.UTC2/photos/a.188823344522076/4800277156709982/?type=3",
+         "message_tags": {
+            "1489": [
+               {
+                  "id": 168799783458533,
+                  "name": "C\u00e2u L\u1ea1c B\u1ed9 Guitar UTC2",
+                  "type": "page",
+                  "offset": 1489,
+                  "length": 39
+               }
+            ],
+            "1566": [
+               {
+                  "id": 273866919413915,
+                  "name": "#LP",
+                  "offset": 1566,
+                  "length": 3
+               }
+            ]
+         },
+         "object_id": "4800277156709982",
+         "picture": "https://scontent.fsgn6-1.fna.fbcdn.net/v/t1.0-0/s130x130/132032763_4800277160043315_5947109452637201188_o.jpg?_nc_cat=106&ccb=1-3&_nc_sid=8024bb&_nc_ohc=JbLJiT3Hvi8AX88VxJU&_nc_ht=scontent.fsgn6-1.fna&tp=7&oh=879cc410840566fd064ae0d95efc4fe7&oe=607E425D",
+         "privacy": {
+            "allow": "",
+            "deny": "",
+            "description": "Public",
+            "friends": "",
+            "value": "EVERYONE"
+         },
+         "shares": {
+            "count": 8
+         },
+         "status_type": "added_photos",
+         "subscribed": false,
+         "to": {
+            "data": [
+               {
+                  "id": "168799783458533",
+                  "name": "C\u00e2u L\u1ea1c B\u1ed9 Guitar UTC2"
+               },
+               {
+                  "id": "273866919413915",
+                  "name": "#LP"
+               }
+            ]
+         },
+         "type": "photo",
+         "updated_time": "2020-12-22T06:55:10+0000",
+         "id": "188779444526466_4800277880043243"
+      },
+      {
+         "created_time": "2020-12-21T02:22:12+0000",
+         "message": "H\u00f4m nay l\u00e0 th\u1ee9 m\u1ea5y, ch\u1eafc ch\u1eafn l\u00e0 th\u1ee9 High!\n\n\u1ea2nh: #Hu\u1ef3nhV\u0103nH\u01b0ng\n#LP",
+         "story": "H\u1ed9i Qu\u00e1n Sinh Vi\u00ean \u0110\u1ea1i H\u1ecdc Giao Th\u00f4ng V\u1eadn T\u1ea3i Ph\u00e2n hi\u1ec7u t\u1ea1i TP.HCM is at H\u1ed9i Qu\u00e1n Sinh Vi\u00ean \u0110\u1ea1i H\u1ecdc Giao Th\u00f4ng V\u1eadn T\u1ea3i Ph\u00e2n hi\u1ec7u t\u1ea1i TP.HCM.",
+         "actions": [
+            {
+               "name": "Like",
+               "link": "https://www.facebook.com/188779444526466/posts/4799636520107379/"
+            },
+            {
+               "name": "Comment",
+               "link": "https://www.facebook.com/188779444526466/posts/4799636520107379/"
+            }
+         ],
+         "from": {
+            "name": "H\u1ed9i Qu\u00e1n Sinh Vi\u00ean \u0110\u1ea1i H\u1ecdc Giao Th\u00f4ng V\u1eadn T\u1ea3i Ph\u00e2n hi\u1ec7u t\u1ea1i TP.HCM",
+            "category": "College & University",
+            "category_list": [
+               {
+                  "id": "2602",
+                  "name": "College & University"
+               },
+               {
+                  "id": "2601",
+                  "name": "School"
+               }
+            ],
+            "id": "188779444526466"
+         },
+         "icon": "https://www.facebook.com/images/icons/photo.gif",
+         "is_hidden": false,
+         "is_expired": false,
+         "link": "https://www.facebook.com/SV.UTC2/photos/a.188823344522076/4799625223441842/?type=3",
+         "message_tags": {
+            "49": [
+               {
+                  "id": 874464682654484,
+                  "name": "#hu\u1ef3nhv\u0103nh\u01b0ng",
+                  "offset": 49,
+                  "length": 13
+               }
+            ],
+            "63": [
+               {
+                  "id": 273866919413915,
+                  "name": "#LP",
+                  "offset": 63,
+                  "length": 3
+               }
+            ]
+         },
+         "object_id": "4799625223441842",
+         "picture": "https://scontent.fsgn6-2.fna.fbcdn.net/v/t1.0-0/s130x130/131971976_4799625230108508_1613064688862679765_o.jpg?_nc_cat=105&ccb=1-3&_nc_sid=8024bb&_nc_ohc=LxzyzUTei-wAX_9FdHi&_nc_ht=scontent.fsgn6-2.fna&tp=7&oh=8b8001a5f4180a2e312f16f5b9a3aad3&oe=607E7835",
+         "place": {
+            "id": "188779444526466",
+            "name": "H\u1ed9i Qu\u00e1n Sinh Vi\u00ean \u0110\u1ea1i H\u1ecdc Giao Th\u00f4ng V\u1eadn T\u1ea3i Ph\u00e2n hi\u1ec7u t\u1ea1i TP.HCM",
+            "location": {
+               "city": "Ho Chi Minh City",
+               "country": "Vietnam",
+               "latitude": 10.84542,
+               "longitude": 106.79447,
+               "street": "450.5  L\u00ea V\u0103n Vi\u1ec7t Ph\u01b0\u1eddng T\u0103ng Nh\u01a1n Ph\u00fa A",
+               "zip": "700000"
+            }
+         },
+         "privacy": {
+            "allow": "",
+            "deny": "",
+            "description": "Public",
+            "friends": "",
+            "value": "EVERYONE"
+         },
+         "status_type": "added_photos",
+         "story_tags": {
+            "0": [
+               {
+                  "id": 188779444526466,
+                  "name": "H\u1ed9i Qu\u00e1n Sinh Vi\u00ean \u0110\u1ea1i H\u1ecdc Giao Th\u00f4ng V\u1eadn T\u1ea3i Ph\u00e2n hi\u1ec7u t\u1ea1i TP.HCM",
+                  "type": "page",
+                  "offset": 0,
+                  "length": 66
+               }
+            ],
+            "73": [
+               {
+                  "id": 188779444526466,
+                  "name": "H\u1ed9i Qu\u00e1n Sinh Vi\u00ean \u0110\u1ea1i H\u1ecdc Giao Th\u00f4ng V\u1eadn T\u1ea3i Ph\u00e2n hi\u1ec7u t\u1ea1i TP.HCM",
+                  "type": "page",
+                  "offset": 73,
+                  "length": 66
+               }
+            ]
+         },
+         "subscribed": false,
+         "to": {
+            "data": [
+               {
+                  "id": "874464682654484",
+                  "name": "#hu\u1ef3nhv\u0103nh\u01b0ng"
+               },
+               {
+                  "id": "273866919413915",
+                  "name": "#LP"
+               }
+            ]
+         },
+         "type": "photo",
+         "updated_time": "2020-12-21T02:22:12+0000",
+         "id": "188779444526466_4799636520107379"
+      },
+      {
+         "created_time": "2020-12-10T06:26:50+0000",
+         "message": "\u0110\u00e3 l\u00e2u l\u1eafm r\u1ed3i ch\u01b0a v\u1ec1 l\u1ea1i n\u01a1i \u0111\u00e2y....\n\n\u1ea2nh:  #Hu\u1ef3nhV\u0103nH\u01b0ng\n#LP",
+         "actions": [
+            {
+               "name": "Like",
+               "link": "https://www.facebook.com/188779444526466/posts/4755026821235016/"
+            },
+            {
+               "name": "Comment",
+               "link": "https://www.facebook.com/188779444526466/posts/4755026821235016/"
+            }
+         ],
+         "comments": {
+            "data": [
+               {
+                  "created_time": "2020-12-10T06:43:46+0000",
+                  "message": "co\u0301 g\u00e2\u0300n tha\u0301ng kh\u00f4ng v\u00f4 nay nhi\u0300n hi\u0300nh la\u0323 qua\u0301!",
+                  "can_remove": false,
+                  "like_count": 0,
+                  "user_likes": false,
+                  "id": "4755026821235016_4755066321231066"
+               }
+            ],
+            "paging": {
+               "cursors": {
+                  "before": "MQZDZD",
+                  "after": "MQZDZD"
+               }
+            }
+         },
+         "from": {
+            "name": "H\u1ed9i Qu\u00e1n Sinh Vi\u00ean \u0110\u1ea1i H\u1ecdc Giao Th\u00f4ng V\u1eadn T\u1ea3i Ph\u00e2n hi\u1ec7u t\u1ea1i TP.HCM",
+            "category": "College & University",
+            "category_list": [
+               {
+                  "id": "2602",
+                  "name": "College & University"
+               },
+               {
+                  "id": "2601",
+                  "name": "School"
+               }
+            ],
+            "id": "188779444526466"
+         },
+         "icon": "https://www.facebook.com/images/icons/photo.gif",
+         "is_hidden": false,
+         "is_expired": false,
+         "link": "https://www.facebook.com/SV.UTC2/photos/a.188823344522076/4755019114569120/?type=3",
+         "message_tags": {
+            "46": [
+               {
+                  "id": 874464682654484,
+                  "name": "#hu\u1ef3nhv\u0103nh\u01b0ng",
+                  "offset": 46,
+                  "length": 13
+               }
+            ],
+            "60": [
+               {
+                  "id": 273866919413915,
+                  "name": "#LP",
+                  "offset": 60,
+                  "length": 3
+               }
+            ]
+         },
+         "object_id": "4755019114569120",
+         "picture": "https://scontent.fsgn6-2.fna.fbcdn.net/v/t1.0-0/s130x130/130770795_4755019117902453_8349888771207147808_o.jpg?_nc_cat=100&ccb=1-3&_nc_sid=8024bb&_nc_ohc=GoUq8dsoLBgAX8CIZw0&_nc_ht=scontent.fsgn6-2.fna&tp=7&oh=ee8e397adc3054f72537313438a35997&oe=607D4B7B",
+         "privacy": {
+            "allow": "",
+            "deny": "",
+            "description": "Public",
+            "friends": "",
+            "value": "EVERYONE"
+         },
+         "status_type": "added_photos",
+         "subscribed": false,
+         "to": {
+            "data": [
+               {
+                  "id": "874464682654484",
+                  "name": "#hu\u1ef3nhv\u0103nh\u01b0ng"
+               },
+               {
+                  "id": "273866919413915",
+                  "name": "#LP"
+               }
+            ]
+         },
+         "type": "photo",
+         "updated_time": "2020-12-10T09:55:00+0000",
+         "id": "188779444526466_4755026821235016"
+      },
+      {
+         "created_time": "2020-11-26T11:32:49+0000",
+         "message": "D\u1ea1o n\u00e0y c\u00f4ng vi\u1ec7c lubu. \u0110\u1ebfn c\u00e1i Cap n\u00ean ghi sao ad kh\u00f4ng ngh\u0129 ra n\u1ed5i r\u1ed3i c\u00e1c b\u1ea1n \u01a1i \ud83d\ude05\ud83d\ude05\ud83d\ude05",
+         "actions": [
+            {
+               "name": "Like",
+               "link": "https://www.facebook.com/188779444526466/posts/4695737967163902/"
+            },
+            {
+               "name": "Comment",
+               "link": "https://www.facebook.com/188779444526466/posts/4695737967163902/"
+            }
+         ],
+         "comments": {
+            "data": [
+               {
+                  "created_time": "2020-11-26T12:03:38+0000",
+                  "from": {
+                     "name": "H\u1ed9i Qu\u00e1n Sinh Vi\u00ean \u0110\u1ea1i H\u1ecdc Giao Th\u00f4ng V\u1eadn T\u1ea3i Ph\u00e2n hi\u1ec7u t\u1ea1i TP.HCM",
+                     "category": "College & University",
+                     "category_list": [
+                        {
+                           "id": "2602",
+                           "name": "College & University"
+                        },
+                        {
+                           "id": "2601",
+                           "name": "School"
+                        }
+                     ],
+                     "id": "188779444526466"
+                  },
+                  "message": "Nh\u1eadu ad \u01a1i",
+                  "can_remove": false,
+                  "like_count": 0,
+                  "user_likes": false,
+                  "id": "4695737967163902_4695839277153771"
+               }
+            ],
+            "paging": {
+               "cursors": {
+                  "before": "MQZDZD",
+                  "after": "MQZDZD"
+               }
+            }
+         },
+         "from": {
+            "name": "H\u1ed9i Qu\u00e1n Sinh Vi\u00ean \u0110\u1ea1i H\u1ecdc Giao Th\u00f4ng V\u1eadn T\u1ea3i Ph\u00e2n hi\u1ec7u t\u1ea1i TP.HCM",
+            "category": "College & University",
+            "category_list": [
+               {
+                  "id": "2602",
+                  "name": "College & University"
+               },
+               {
+                  "id": "2601",
+                  "name": "School"
+               }
+            ],
+            "id": "188779444526466"
+         },
+         "icon": "https://www.facebook.com/images/icons/photo.gif",
+         "is_hidden": false,
+         "is_expired": false,
+         "link": "https://www.facebook.com/SV.UTC2/photos/a.707966249274447/4695737837163915/?type=3",
+         "object_id": "4695737837163915",
+         "picture": "https://scontent.fsgn6-1.fna.fbcdn.net/v/t1.0-0/s130x130/127633518_4695737840497248_1576086012193906340_o.jpg?_nc_cat=109&ccb=1-3&_nc_sid=110474&_nc_ohc=pl0eo32pGGcAX8BUU-J&_nc_ht=scontent.fsgn6-1.fna&tp=7&oh=c29f70f2bc62460bfe5e43d03b19fca9&oe=607D2E20",
+         "privacy": {
+            "allow": "",
+            "deny": "",
+            "description": "Public",
+            "friends": "",
+            "value": "EVERYONE"
+         },
+         "status_type": "added_photos",
+         "subscribed": false,
+         "type": "photo",
+         "updated_time": "2020-11-26T12:03:38+0000",
+         "id": "188779444526466_4695737967163902"
+      },
+      {
+         "created_time": "2020-11-26T02:01:54+0000",
+         "message": "[R\u01a1i-Nh\u1eb7t]\nB\u1ea1n n\u00e0o l\u00e0m r\u1edbt th\u1ebb xe khu v\u1ef1c E7 li\u00ean h\u1ec7 s\u0111t 0356325041 \u0111\u1ec3 nh\u1eadn l\u1ea1i \u0111\u1ebfn h\u1ebft ti\u1ebft 5 s\u00e1ng nay nh\u00e9. H\u1ebft ti\u1ebft 5 kh\u00f4ng ai nh\u1eadn b\u1ea1n l\u01b0\u1ee3m \u0111\u01b0\u1ee3c s\u1ebd g\u1eedi l\u1ea1i nh\u00e0 xe",
+         "actions": [
+            {
+               "name": "Like",
+               "link": "https://www.facebook.com/188779444526466/posts/4694122607325438/"
+            },
+            {
+               "name": "Comment",
+               "link": "https://www.facebook.com/188779444526466/posts/4694122607325438/"
+            }
+         ],
+         "from": {
+            "name": "H\u1ed9i Qu\u00e1n Sinh Vi\u00ean \u0110\u1ea1i H\u1ecdc Giao Th\u00f4ng V\u1eadn T\u1ea3i Ph\u00e2n hi\u1ec7u t\u1ea1i TP.HCM",
+            "category": "College & University",
+            "category_list": [
+               {
+                  "id": "2602",
+                  "name": "College & University"
+               },
+               {
+                  "id": "2601",
+                  "name": "School"
+               }
+            ],
+            "id": "188779444526466"
+         },
+         "icon": "https://www.facebook.com/images/icons/photo.gif",
+         "is_hidden": false,
+         "is_expired": false,
+         "link": "https://www.facebook.com/SV.UTC2/photos/a.707966249274447/4694122017325497/?type=3",
+         "object_id": "4694122017325497",
+         "picture": "https://scontent.fsgn6-1.fna.fbcdn.net/v/t1.0-0/s130x130/127032977_4694122020658830_4877663342974730234_o.jpg?_nc_cat=103&ccb=1-3&_nc_sid=110474&_nc_ohc=l2RyrClEwgcAX8Z4KNa&_nc_ht=scontent.fsgn6-1.fna&tp=7&oh=ecbfcbc0bb7b6216a4c1d299f2313026&oe=607F8701",
+         "privacy": {
+            "allow": "",
+            "deny": "",
+            "description": "Public",
+            "friends": "",
+            "value": "EVERYONE"
+         },
+         "status_type": "added_photos",
+         "subscribed": false,
+         "type": "photo",
+         "updated_time": "2020-11-26T02:01:54+0000",
+         "id": "188779444526466_4694122607325438"
+      },
+      {
+         "created_time": "2020-11-20T01:37:00+0000",
+         "message": "\ud83c\udf1eCh\u00fac m\u1eebng ng\u00e0y Nh\u00e0 Gi\u00e1o Vi\u1ec7t Nam\nK\u00ednh ch\u00fac Qu\u00fd Th\u1ea7y C\u00f4 th\u1eadt nhi\u1ec1u s\u1ee9c kh\u1ecfe, an y\u00ean trong cu\u1ed9c s\u1ed1ng, lu\u00f4n nhi\u1ec7t th\u00e0nh trong s\u1ef1 nghi\u1ec7p tr\u1ed3ng ng\u01b0\u1eddi \u0111\u1ec3 ti\u1ebfp t\u1ee5c d\u00ecu d\u1eaft nhi\u1ec1u l\u1edbp h\u1ecdc tr\u00f2 tr\u00ean con \u0111\u01b0\u1eddng tri th\u1ee9c.\n\n#LP",
+         "actions": [
+            {
+               "name": "Like",
+               "link": "https://www.facebook.com/188779444526466/posts/4668003873270645/"
+            },
+            {
+               "name": "Comment",
+               "link": "https://www.facebook.com/188779444526466/posts/4668003873270645/"
+            }
+         ],
+         "from": {
+            "name": "H\u1ed9i Qu\u00e1n Sinh Vi\u00ean \u0110\u1ea1i H\u1ecdc Giao Th\u00f4ng V\u1eadn T\u1ea3i Ph\u00e2n hi\u1ec7u t\u1ea1i TP.HCM",
+            "category": "College & University",
+            "category_list": [
+               {
+                  "id": "2602",
+                  "name": "College & University"
+               },
+               {
+                  "id": "2601",
+                  "name": "School"
+               }
+            ],
+            "id": "188779444526466"
+         },
+         "icon": "https://www.facebook.com/images/icons/photo.gif",
+         "is_hidden": false,
+         "is_expired": false,
+         "link": "https://www.facebook.com/SV.UTC2/photos/a.188823344522076/4667999123271120/?type=3",
+         "message_tags": {
+            "210": [
+               {
+                  "id": 273866919413915,
+                  "name": "#LP",
+                  "offset": 210,
+                  "length": 3
+               }
+            ]
+         },
+         "object_id": "4667999123271120",
+         "picture": "https://scontent.fsgn6-2.fna.fbcdn.net/v/t1.0-0/s130x130/125935661_4667999126604453_347133346313308528_o.jpg?_nc_cat=105&ccb=1-3&_nc_sid=8024bb&_nc_ohc=a8LOmA5cakkAX92Jh7k&_nc_ht=scontent.fsgn6-2.fna&tp=7&oh=d70b03fd404303544966e18e026b062d&oe=607E3289",
+         "privacy": {
+            "allow": "",
+            "deny": "",
+            "description": "Public",
+            "friends": "",
+            "value": "EVERYONE"
+         },
+         "shares": {
+            "count": 3
+         },
+         "status_type": "added_photos",
+         "subscribed": false,
+         "to": {
+            "data": [
+               {
+                  "id": "273866919413915",
+                  "name": "#LP"
+               }
+            ]
+         },
+         "type": "photo",
+         "updated_time": "2020-11-20T01:37:00+0000",
+         "id": "188779444526466_4668003873270645"
+      },
+      {
+         "created_time": "2020-11-16T03:05:41+0000",
+         "message": "L\u00e2u qu\u00e1 r\u1ed3i ad kh\u00f4ng \u0111\u0103ng g\u00ec nh\u1ec9 =))))",
+         "actions": [
+            {
+               "name": "Like",
+               "link": "https://www.facebook.com/188779444526466/posts/4650744131663286/"
+            },
+            {
+               "name": "Comment",
+               "link": "https://www.facebook.com/188779444526466/posts/4650744131663286/"
+            }
+         ],
+         "comments": {
+            "data": [
+               {
+                  "created_time": "2020-11-16T03:09:35+0000",
+                  "message": "T\u0103\u0323ng ad ca\u0301i hi\u0300nh",
+                  "can_remove": false,
+                  "like_count": 2,
+                  "user_likes": false,
+                  "id": "4650744131663286_4650756414995391"
+               },
+               {
+                  "created_time": "2020-11-16T03:13:37+0000",
+                  "message": "",
+                  "can_remove": false,
+                  "like_count": 1,
+                  "user_likes": false,
+                  "id": "4650744131663286_4650768058327560"
+               },
+               {
+                  "created_time": "2020-11-16T04:05:10+0000",
+                  "message": "Ad l\u00e0m shiper hay sao m\u00e0 ch\u1ee5p \u1edf g\u00f3c n\u00e0y nh\u1ec9 \ud83d\ude00",
+                  "can_remove": false,
+                  "like_count": 0,
+                  "user_likes": false,
+                  "id": "4650744131663286_4650918284979204"
+               }
+            ],
+            "paging": {
+               "cursors": {
+                  "before": "MwZDZD",
+                  "after": "MQZDZD"
+               }
+            }
+         },
+         "from": {
+            "name": "H\u1ed9i Qu\u00e1n Sinh Vi\u00ean \u0110\u1ea1i H\u1ecdc Giao Th\u00f4ng V\u1eadn T\u1ea3i Ph\u00e2n hi\u1ec7u t\u1ea1i TP.HCM",
+            "category": "College & University",
+            "category_list": [
+               {
+                  "id": "2602",
+                  "name": "College & University"
+               },
+               {
+                  "id": "2601",
+                  "name": "School"
+               }
+            ],
+            "id": "188779444526466"
+         },
+         "icon": "https://www.facebook.com/images/icons/photo.gif",
+         "is_hidden": false,
+         "is_expired": false,
+         "link": "https://www.facebook.com/SV.UTC2/photos/a.707966249274447/4650744051663294/?type=3",
+         "object_id": "4650744051663294",
+         "picture": "https://scontent.fsgn6-2.fna.fbcdn.net/v/t1.0-0/s130x130/125340953_4650744054996627_6040578812884001489_o.jpg?_nc_cat=105&ccb=1-3&_nc_sid=110474&_nc_ohc=UoXMi4eTizQAX-l_WNH&_nc_ht=scontent.fsgn6-2.fna&tp=7&oh=e598db2fdd51d68b46429412fe173336&oe=607DE1FB",
+         "privacy": {
+            "allow": "",
+            "deny": "",
+            "description": "Public",
+            "friends": "",
+            "value": "EVERYONE"
+         },
+         "status_type": "added_photos",
+         "subscribed": false,
+         "type": "photo",
+         "updated_time": "2020-11-16T04:05:10+0000",
+         "id": "188779444526466_4650744131663286"
+      },
+      {
+         "created_time": "2020-11-14T03:55:53+0000",
+         "message": "B\u1ea1n n\u00e0o l\u00e0m r\u01a1i \"c\u1ee5c c\u01b0ng\" li\u00ean h\u1ec7 fb sau nh\u1eadn l\u1ea1i nh\u00e9 \nhttps://www.facebook.com/kieu.thi.35513800",
+         "actions": [
+            {
+               "name": "Like",
+               "link": "https://www.facebook.com/188779444526466/posts/4641968825874150/"
+            },
+            {
+               "name": "Comment",
+               "link": "https://www.facebook.com/188779444526466/posts/4641968825874150/"
+            }
+         ],
+         "comments": {
+            "data": [
+               {
+                  "created_time": "2020-11-14T05:00:11+0000",
+                  "message": "\u0110\u00e3 ib b\u1ea1n \u1ea5y",
+                  "can_remove": false,
+                  "like_count": 0,
+                  "user_likes": false,
+                  "id": "4641968825874150_4642154989188867"
+               }
+            ],
+            "paging": {
+               "cursors": {
+                  "before": "MQZDZD",
+                  "after": "MQZDZD"
+               }
+            }
+         },
+         "from": {
+            "name": "H\u1ed9i Qu\u00e1n Sinh Vi\u00ean \u0110\u1ea1i H\u1ecdc Giao Th\u00f4ng V\u1eadn T\u1ea3i Ph\u00e2n hi\u1ec7u t\u1ea1i TP.HCM",
+            "category": "College & University",
+            "category_list": [
+               {
+                  "id": "2602",
+                  "name": "College & University"
+               },
+               {
+                  "id": "2601",
+                  "name": "School"
+               }
+            ],
+            "id": "188779444526466"
+         },
+         "icon": "https://www.facebook.com/images/icons/photo.gif",
+         "is_hidden": false,
+         "is_expired": false,
+         "link": "https://www.facebook.com/SV.UTC2/photos/a.707966249274447/4641968742540825/?type=3",
+         "message_tags": {
+            "56": [
+               {
+                  "id": 100017496553773,
+                  "name": "Qu\u1ed1c B\u1ea3o",
+                  "type": "user",
+                  "offset": 56,
+                  "length": 42
+               }
+            ]
+         },
+         "object_id": "4641968742540825",
+         "picture": "https://scontent.fsgn6-1.fna.fbcdn.net/v/t1.0-0/s130x130/124761296_4641968745874158_1533346709163277072_o.jpg?_nc_cat=107&ccb=1-3&_nc_sid=110474&_nc_ohc=oYecnAs3kDYAX_2vMQG&_nc_ht=scontent.fsgn6-1.fna&tp=7&oh=a845a9d591e58e2d9348ce3261fdd6bf&oe=607F5F75",
+         "privacy": {
+            "allow": "",
+            "deny": "",
+            "description": "Public",
+            "friends": "",
+            "value": "EVERYONE"
+         },
+         "status_type": "added_photos",
+         "subscribed": false,
+         "type": "photo",
+         "updated_time": "2020-11-14T05:00:11+0000",
+         "id": "188779444526466_4641968825874150"
+      },
+      {
+         "created_time": "2020-11-13T01:27:20+0000",
+         "message": "[R\u01a1i-Nh\u1eb7t]\nB\u1ea1n Tr\u1ea7n H\u1eefu Phong li\u00ean h\u1ec7 S\u0110T sau \u0111\u1ec3 nh\u1eadn l\u1ea1i th\u1ebb sinh vi\u00ean 0978965 n\u0103m ba b\u1ea3y\n\n#LP",
+         "actions": [
+            {
+               "name": "Like",
+               "link": "https://www.facebook.com/188779444526466/posts/4636958579708508/"
+            },
+            {
+               "name": "Comment",
+               "link": "https://www.facebook.com/188779444526466/posts/4636958579708508/"
+            }
+         ],
+         "comments": {
+            "data": [
+               {
+                  "created_time": "2020-11-13T02:07:48+0000",
+                  "message": "Phong H\u1eefu Tr\u1ea7n v\u00f4 nh\u1eadn t\u1ec1",
+                  "can_remove": false,
+                  "like_count": 1,
+                  "message_tags": [
+                     {
+                        "id": "100047900024926",
+                        "length": 14,
+                        "name": "Tr\u1ea7n H\u1eefu Phong",
+                        "offset": 0,
+                        "type": "user"
+                     }
+                  ],
+                  "user_likes": false,
+                  "id": "4636958579708508_4637075079696858"
+               },
+               {
+                  "created_time": "2020-11-13T01:28:24+0000",
+                  "message": "Tr\u1ea7n H\u1eefu Phong",
+                  "can_remove": false,
+                  "like_count": 1,
+                  "message_tags": [
+                     {
+                        "id": "100047900024926",
+                        "length": 14,
+                        "name": "Tr\u1ea7n H\u1eefu Phong",
+                        "offset": 0,
+                        "type": "user"
+                     }
+                  ],
+                  "user_likes": false,
+                  "id": "4636958579708508_4636961816374851"
+               },
+               {
+                  "created_time": "2020-11-13T02:13:13+0000",
+                  "message": "M\u1ea1nh To\u00e0n",
+                  "can_remove": false,
+                  "like_count": 1,
+                  "message_tags": [
+                     {
+                        "id": "100011824080337",
+                        "length": 9,
+                        "name": "M\u1ea1nh To\u00e0n",
+                        "offset": 0,
+                        "type": "user"
+                     }
+                  ],
+                  "user_likes": false,
+                  "id": "4636958579708508_4637091879695178"
+               },
+               {
+                  "created_time": "2020-11-13T01:33:29+0000",
+                  "message": "Phong H\u1eefu Tr\u1ea7n",
+                  "can_remove": false,
+                  "like_count": 1,
+                  "message_tags": [
+                     {
+                        "id": "100047900024926",
+                        "length": 14,
+                        "name": "Tr\u1ea7n H\u1eefu Phong",
+                        "offset": 0,
+                        "type": "user"
+                     }
+                  ],
+                  "user_likes": false,
+                  "id": "4636958579708508_4636976053040094"
+               }
+            ],
+            "paging": {
+               "cursors": {
+                  "before": "NQZDZD",
+                  "after": "MgZDZD"
+               }
+            }
+         },
+         "from": {
+            "name": "H\u1ed9i Qu\u00e1n Sinh Vi\u00ean \u0110\u1ea1i H\u1ecdc Giao Th\u00f4ng V\u1eadn T\u1ea3i Ph\u00e2n hi\u1ec7u t\u1ea1i TP.HCM",
+            "category": "College & University",
+            "category_list": [
+               {
+                  "id": "2602",
+                  "name": "College & University"
+               },
+               {
+                  "id": "2601",
+                  "name": "School"
+               }
+            ],
+            "id": "188779444526466"
+         },
+         "icon": "https://www.facebook.com/images/icons/photo.gif",
+         "is_hidden": false,
+         "is_expired": false,
+         "link": "https://www.facebook.com/SV.UTC2/photos/a.188823344522076/4636956376375395/?type=3",
+         "message_tags": {
+            "92": [
+               {
+                  "id": 273866919413915,
+                  "name": "#LP",
+                  "offset": 92,
+                  "length": 3
+               }
+            ]
+         },
+         "object_id": "4636956376375395",
+         "picture": "https://scontent.fsgn6-1.fna.fbcdn.net/v/t1.0-0/s130x130/124333523_4636956383042061_3073772089952755029_n.jpg?_nc_cat=106&ccb=1-3&_nc_sid=8024bb&_nc_ohc=BInmHE4b9n8AX9lg1XE&_nc_ht=scontent.fsgn6-1.fna&tp=7&oh=a77b82cffbd1b22906b7d1b512652cc0&oe=6080143D",
+         "privacy": {
+            "allow": "",
+            "deny": "",
+            "description": "Public",
+            "friends": "",
+            "value": "EVERYONE"
+         },
+         "status_type": "added_photos",
+         "subscribed": false,
+         "to": {
+            "data": [
+               {
+                  "id": "273866919413915",
+                  "name": "#LP"
+               }
+            ]
+         },
+         "type": "photo",
+         "updated_time": "2020-11-13T02:13:13+0000",
+         "id": "188779444526466_4636958579708508"
+      },
+      {
+         "created_time": "2020-11-08T00:30:34+0000",
+         "message": "UTC2 ngay l\u00fac n\u00e0y. Th\u00eam m\u1ed9t th\u1ebf h\u1ec7 sinh vi\u00ean t\u1ed1t nghi\u1ec7p.\nCh\u00fac m\u1eebng t\u1ea5t c\u1ea3 c\u00e1c b\u1ea1n \u003C3\n\n#LP",
+         "actions": [
+            {
+               "name": "Like",
+               "link": "https://www.facebook.com/188779444526466/posts/4614634705274229/"
+            },
+            {
+               "name": "Comment",
+               "link": "https://www.facebook.com/188779444526466/posts/4614634705274229/"
+            }
+         ],
+         "comments": {
+            "data": [
+               {
+                  "created_time": "2020-11-13T14:41:27+0000",
+                  "message": "G\u00f3c n\u00e0y gi\u1edd \u0111\u1eb9p s\u1ea1ch s\u1ebd nh\u1ec9 . X\u01b0a ch\u1ec9 c\u00f3 th\u1ebf n\u00e0y th\u00f4i ",
+                  "can_remove": false,
+                  "like_count": 0,
+                  "user_likes": false,
+                  "id": "4614634705274229_4639376639466702"
+               },
+               {
+                  "created_time": "2020-11-08T03:00:14+0000",
+                  "message": "Tr\u1ea7n Hi\u1ec7p ch\u00fac m\u1eebng b\u1ea1n",
+                  "can_remove": false,
+                  "like_count": 0,
+                  "message_tags": [
+                     {
+                        "id": "100034359892612",
+                        "length": 9,
+                        "name": "Tr\u1ea7n Hi\u1ec7p",
+                        "offset": 0,
+                        "type": "user"
+                     }
+                  ],
+                  "user_likes": false,
+                  "id": "4614634705274229_4615072011897165"
+               },
+               {
+                  "created_time": "2020-11-08T00:34:52+0000",
+                  "message": "",
+                  "can_remove": false,
+                  "like_count": 0,
+                  "user_likes": false,
+                  "id": "4614634705274229_4614646325273067"
+               }
+            ],
+            "paging": {
+               "cursors": {
+                  "before": "NQZDZD",
+                  "after": "MwZDZD"
+               }
+            }
+         },
+         "from": {
+            "name": "H\u1ed9i Qu\u00e1n Sinh Vi\u00ean \u0110\u1ea1i H\u1ecdc Giao Th\u00f4ng V\u1eadn T\u1ea3i Ph\u00e2n hi\u1ec7u t\u1ea1i TP.HCM",
+            "category": "College & University",
+            "category_list": [
+               {
+                  "id": "2602",
+                  "name": "College & University"
+               },
+               {
+                  "id": "2601",
+                  "name": "School"
+               }
+            ],
+            "id": "188779444526466"
+         },
+         "icon": "https://www.facebook.com/images/icons/photo.gif",
+         "is_hidden": false,
+         "is_expired": false,
+         "link": "https://www.facebook.com/SV.UTC2/photos/a.707966249274447/4614634628607570/?type=3",
+         "message_tags": {
+            "86": [
+               {
+                  "id": 273866919413915,
+                  "name": "#LP",
+                  "offset": 86,
+                  "length": 3
+               }
+            ]
+         },
+         "object_id": "4614634628607570",
+         "picture": "https://scontent.fsgn6-2.fna.fbcdn.net/v/t1.0-0/s130x130/123684770_4614634631940903_4599325959866891538_o.jpg?_nc_cat=108&ccb=1-3&_nc_sid=110474&_nc_ohc=0o5ZKW36svoAX-MaPH1&_nc_ht=scontent.fsgn6-2.fna&tp=7&oh=169a248aab237bcf13b67c73b8d6ca1e&oe=607C785B",
+         "privacy": {
+            "allow": "",
+            "deny": "",
+            "description": "Public",
+            "friends": "",
+            "value": "EVERYONE"
+         },
+         "status_type": "added_photos",
+         "subscribed": false,
+         "to": {
+            "data": [
+               {
+                  "id": "273866919413915",
+                  "name": "#LP"
+               }
+            ]
+         },
+         "type": "photo",
+         "updated_time": "2020-11-13T14:41:27+0000",
+         "id": "188779444526466_4614634705274229"
+      },
+      {
+         "created_time": "2020-11-05T06:09:15+0000",
+         "message": "Th\u00f4ng b\u00e1o giao nh\u1eadn th\u1ebb sinh vi\u00ean Kh\u00f3a 61 (sinh vi\u00ean nh\u1eadp h\u1ecdc \u0110\u1ee3t 1)\n\n\ud83d\udc49 Th\u1eddi gian nh\u1eadn: t\u1eeb 13h30 ng\u00e0y 05/11/2020 \u0111\u1ebfn h\u1ebft ng\u00e0y 12/11/2020.\n\ud83d\udc49  \u0110\u1ecba \u0111i\u1ec3m: Ph\u00f2ng CTCT&SV (Ph\u00f2ng 6D3- Khu V\u0103n ph\u00f2ng).\n\u2734\ufe0f \u2734\ufe0f \u2734\ufe0f L\u01b0u \u00fd:\n\ud83d\udc49  L\u1edbp tr\u01b0\u1edfng l\u00ean l\u1ea5y th\u1ebb sinh vi\u00ean v\u00e0 2 danh s\u00e1ch k\u00fd t\u00ean sinh vi\u00ean c\u1ee7a l\u1edbp.\n\ud83d\udc49  L\u1edbp tr\u01b0\u1edfng ph\u00e1t th\u1ebb sinh vi\u00ean l\u1edbp m\u00ecnh: thu th\u1ebb t\u1ea1m th\u1eddi c\u00e1c b\u1ea1n, ph\u00e1t th\u1ebb sinh vi\u00ean v\u00e0 cho k\u00fd nh\u1eadn \u0111\u1ee7 2 danh s\u00e1ch.\n\ud83d\udc49  L\u1edbp tr\u01b0\u1edfng b\u00e0n giao l\u1ea1i Ph\u00f2ng CTCT&SV th\u1ebb t\u1ea1m th\u1eddi sinh vi\u00ean l\u1edbp m\u00ecnh v\u00e0 2 danh s\u00e1ch k\u00fd t\u00ean nh\u1eadn \u0111\u1ee7 c\u1ee7a l\u1edbp.",
+         "actions": [
+            {
+               "name": "Like",
+               "link": "https://www.facebook.com/188779444526466/posts/4602087013195665/"
+            },
+            {
+               "name": "Comment",
+               "link": "https://www.facebook.com/188779444526466/posts/4602087013195665/"
+            }
+         ],
+         "from": {
+            "name": "H\u1ed9i Qu\u00e1n Sinh Vi\u00ean \u0110\u1ea1i H\u1ecdc Giao Th\u00f4ng V\u1eadn T\u1ea3i Ph\u00e2n hi\u1ec7u t\u1ea1i TP.HCM",
+            "category": "College & University",
+            "category_list": [
+               {
+                  "id": "2602",
+                  "name": "College & University"
+               },
+               {
+                  "id": "2601",
+                  "name": "School"
+               }
+            ],
+            "id": "188779444526466"
+         },
+         "icon": "https://www.facebook.com/images/icons/photo.gif",
+         "is_hidden": false,
+         "is_expired": false,
+         "link": "https://www.facebook.com/SV.UTC2/photos/a.188823344522076/4602086639862369/?type=3",
+         "object_id": "4602086639862369",
+         "picture": "https://scontent.fsgn6-1.fna.fbcdn.net/v/t1.0-0/p130x130/123579004_4602086643195702_6418426552634058553_n.jpg?_nc_cat=103&ccb=1-3&_nc_sid=8024bb&_nc_ohc=3_imVbckNxMAX_GuOWp&_nc_ht=scontent.fsgn6-1.fna&tp=6&oh=4241ddfd7117f2a002673a72259653d8&oe=607EE596",
+         "privacy": {
+            "allow": "",
+            "deny": "",
+            "description": "Public",
+            "friends": "",
+            "value": "EVERYONE"
+         },
+         "shares": {
+            "count": 1
+         },
+         "status_type": "added_photos",
+         "subscribed": false,
+         "type": "photo",
+         "updated_time": "2020-11-05T06:09:15+0000",
+         "id": "188779444526466_4602087013195665"
+      },
+      {
+         "created_time": "2020-11-05T01:05:05+0000",
+         "message": "B\u1ea1n n\u00e0o l\u00e0m r\u1edbi th\u1ebb li\u00ean h\u1ec7 ph\u00f2ng 4d31 fb https://www.facebook.com/dt.dt.784838636363\n\u0110\u1ec3 nh\u1eadn l\u1ea1i nh\u00e9",
+         "actions": [
+            {
+               "name": "Like",
+               "link": "https://www.facebook.com/188779444526466/posts/4601224353281931/"
+            },
+            {
+               "name": "Comment",
+               "link": "https://www.facebook.com/188779444526466/posts/4601224353281931/"
+            }
+         ],
+         "from": {
+            "name": "H\u1ed9i Qu\u00e1n Sinh Vi\u00ean \u0110\u1ea1i H\u1ecdc Giao Th\u00f4ng V\u1eadn T\u1ea3i Ph\u00e2n hi\u1ec7u t\u1ea1i TP.HCM",
+            "category": "College & University",
+            "category_list": [
+               {
+                  "id": "2602",
+                  "name": "College & University"
+               },
+               {
+                  "id": "2601",
+                  "name": "School"
+               }
+            ],
+            "id": "188779444526466"
+         },
+         "icon": "https://www.facebook.com/images/icons/photo.gif",
+         "is_hidden": false,
+         "is_expired": false,
+         "link": "https://www.facebook.com/SV.UTC2/photos/a.188823344522076/4601195909951442/?type=3",
+         "message_tags": {
+            "42": [
+               {
+                  "id": 100008022517812,
+                  "name": "Th\u00e0nh Ti\u1ebfn",
+                  "type": "user",
+                  "offset": 42,
+                  "length": 43
+               }
+            ]
+         },
+         "object_id": "4601195909951442",
+         "picture": "https://scontent.fsgn6-1.fna.fbcdn.net/v/t1.0-0/s130x130/124024114_4601195913284775_3804332402737507273_n.jpg?_nc_cat=103&ccb=1-3&_nc_sid=8024bb&_nc_ohc=5n7Ft6YOpoMAX-6hGnr&_nc_ht=scontent.fsgn6-1.fna&tp=7&oh=05103b8eae655d002ec66ec21d03c799&oe=607E69F4",
+         "privacy": {
+            "allow": "",
+            "deny": "",
+            "description": "Public",
+            "friends": "",
+            "value": "EVERYONE"
+         },
+         "status_type": "added_photos",
+         "subscribed": false,
+         "type": "photo",
+         "updated_time": "2020-11-05T01:05:05+0000",
+         "id": "188779444526466_4601224353281931"
+      },
+      {
+         "created_time": "2020-11-03T09:52:21+0000",
+         "message": "Th\u00f4ng b\u00e1o v\u1ec1 vi\u1ec7c tri\u1ec3n khai r\u00fat b\u1edbt kh\u1ed1i l\u01b0\u1ee3ng h\u1ecdc t\u1eadp \u0111\u00e3 \u0111\u0103ng k\u00fd h\u1ecdc cho sinh vi\u00ean \u0111\u1ea1i h\u1ecdc ch\u00ednh quy h\u1ecdc k\u1ef3 I n\u0103m h\u1ecdc 2020 \u2013 2021\n(Th\u00f4ng b\u00e1o \u00e1p d\u1ee5ng cho c\u00e1c kh\u00f3a K60 tr\u1edf v\u1ec1 tr\u01b0\u1edbc)\nhttps://bom.to/BdhM0qs\n\n\u2734\ufe0f \u2734\ufe0f \u2734\ufe0fTh\u1eddi gian v\u00e0 \u0111\u1ecba \u0111i\u1ec3m l\u00e0m th\u1ee7 t\u1ee5c r\u00fat b\u1edbt kh\u1ed1i lu\u1ee3ng h\u1ecdc t\u1eadp\n\ud83d\udc49 Sinh vi\u00ean k\u00ea khai c\u00e1c h\u1ecdc ph\u1ea7n c\u1ea7n r\u00fat b\u1edbt v\u00e0o phi\u1ebfu r\u00fat b\u1edbt h\u1ecdc ph\u1ea7n (theo m\u1eabu) v\u00e0 l\u00e0m th\u1ee7 t\u1ee5c t\u1ea1i Ph\u00f2ng \u0110\u00e0o t\u1ea1o (P10-D3).\n\ud83d\udc49\ud83d\udc49 R\u00fat b\u1edbt kh\u1ed1i l\u01b0\u1ee3ng h\u1ecdc t\u1eadp trong h\u1ecdc k\u1ef3 I n\u0103m h\u1ecdc 2020-2021: T\u1eeb ng\u00e0y 10/11 \u0111\u1ebfn 12/11/2020.\n\u2734\ufe0f\u2734\ufe0f\u2734\ufe0f M\u1ed9t s\u1ed1 l\u01b0u \u00fd khi tri\u1ec3n khai th\u1ef1c hi\u1ec7n\n\ud83d\udc49 Sinh vi\u00ean k\u00ea khai 02 phi\u1ebfu r\u00fat b\u1edbt h\u1ecdc ph\u1ea7n, nh\u1eadn l\u1ea1i 01 phi\u1ebfu c\u00f3 x\u00e1c nh\u1eadn c\u1ee7a Ph\u00f2ng \u0110\u00e0o t\u1ea1o sau khi th\u1ef1c hi\u1ec7n th\u1ee7 t\u1ee5c r\u00fat v\u00e0 n\u1ed9p b\u1ea3n sao cho gi\u1ea3ng vi\u00ean ph\u1ee5 tr\u00e1ch l\u1edbp h\u1ecdc ph\u1ea7n;\n\ud83d\udc49\ud83d\udc49 Trong v\u00f2ng 03 ng\u00e0y k\u1ec3 t\u1eeb ng\u00e0y l\u00e0m th\u1ee7 t\u1ee5c, sinh vi\u00ean ki\u1ec3m tra k\u1ebft qu\u1ea3 r\u00fat b\u1edbt h\u1ecdc ph\u1ea7n tr\u00ean ph\u1ea7n m\u1ec1m qu\u1ea3n l\u00fd \u0111\u00e0o t\u1ea1o, n\u1ebfu c\u00f3 th\u1eafc m\u1eafc sinh vi\u00ean li\u00ean h\u1ec7 ngay v\u1edbi Ph\u00f2ng \u0110\u00e0o t\u1ea1o (P10-D3) \u0111\u1ec3 \u0111\u01b0\u1ee3c gi\u1ea3i quy\u1ebft.\n\ud83d\udc49\ud83d\udc49\ud83d\udc49 C\u00e1c c\u1ed1 v\u1ea5n h\u1ecdc t\u1eadp t\u01b0 v\u1ea5n cho sinh vi\u00ean quy\u1ebft \u0111\u1ecbnh l\u1ef1a ch\u1ecdn r\u00fat b\u1edbt kh\u1ed1i l\u01b0\u1ee3ng h\u1ecdc t\u1eadp \u0111\u00e3 \u0111\u0103ng k\u00fd h\u1ecdc ph\u00f9 h\u1ee3p v\u1edbi n\u0103ng l\u1ef1c h\u1ecdc t\u1eadp c\u1ee7a sinh vi\u00ean.\n#LP",
+         "actions": [
+            {
+               "name": "Like",
+               "link": "https://www.facebook.com/188779444526466/posts/4594264800644553/"
+            },
+            {
+               "name": "Comment",
+               "link": "https://www.facebook.com/188779444526466/posts/4594264800644553/"
+            }
+         ],
+         "comments": {
+            "data": [
+               {
+                  "created_time": "2020-11-03T11:59:23+0000",
+                  "message": "Tran Cong Minh c\u00f3 nhu c\u1ea7u ko nh\u1edd ? :D",
+                  "can_remove": false,
+                  "like_count": 2,
+                  "message_tags": [
+                     {
+                        "id": "100042198557173",
+                        "length": 14,
+                        "name": "Tran Cong Minh",
+                        "offset": 0,
+                        "type": "user"
+                     }
+                  ],
+                  "user_likes": false,
+                  "id": "4594264800644553_4594645520606481"
+               },
+               {
+                  "created_time": "2020-11-03T09:57:32+0000",
+                  "message": "Ho\u00e0ng Minh \u0110\u1ee9c",
+                  "can_remove": false,
+                  "like_count": 1,
+                  "message_tags": [
+                     {
+                        "id": "100027829940917",
+                        "length": 14,
+                        "name": "Ho\u00e0ng Minh \u0110\u1ee9c",
+                        "offset": 0,
+                        "type": "user"
+                     }
+                  ],
+                  "user_likes": false,
+                  "id": "4594264800644553_4594277750643258"
+               },
+               {
+                  "created_time": "2020-11-03T10:20:59+0000",
+                  "message": "Ng\u01b0\u1eddi th\u00ec tr\u00f4ng \u0111\u0103ng k\u00ed cho \u0111\u01b0\u1ee3c nhi\u1ec1u ng\u01b0\u1eddi th\u00ec \u0111i r\u00fat L\u01b0\u01a1ng",
+                  "can_remove": false,
+                  "like_count": 1,
+                  "message_tags": [
+                     {
+                        "id": "100008602742794",
+                        "length": 5,
+                        "name": "L\u01b0\u01a1ng",
+                        "offset": 56,
+                        "type": "user"
+                     }
+                  ],
+                  "user_likes": false,
+                  "id": "4594264800644553_4594343163970050"
+               },
+               {
+                  "created_time": "2020-11-03T11:42:15+0000",
+                  "message": " Nam L\u00ea Ho\u00e0ng coi r\u00fat n\u00e0y",
+                  "can_remove": false,
+                  "like_count": 2,
+                  "message_tags": [
+                     {
+                        "id": "100009208224290",
+                        "length": 12,
+                        "name": "L\u00ea Ho\u00e0ng Nam",
+                        "offset": 1,
+                        "type": "user"
+                     }
+                  ],
+                  "user_likes": false,
+                  "id": "4594264800644553_4594589270612106"
+               },
+               {
+                  "created_time": "2020-12-07T11:38:16+0000",
+                  "message": "Ph\u1ea1m Quang Huy ba t\u00f9ng",
+                  "can_remove": false,
+                  "like_count": 0,
+                  "message_tags": [
+                     {
+                        "id": "100015876881870",
+                        "length": 14,
+                        "name": "Ph\u1ea1m Quang Huy",
+                        "offset": 0,
+                        "type": "user"
+                     }
+                  ],
+                  "user_likes": false,
+                  "id": "4594264800644553_4743676739036691"
+               },
+               {
+                  "created_time": "2020-11-03T10:03:24+0000",
+                  "message": "Huy L\u01b0\u01a1ng Phan",
+                  "can_remove": false,
+                  "like_count": 1,
+                  "message_tags": [
+                     {
+                        "id": "100025347821467",
+                        "length": 14,
+                        "name": "L\u01b0\u01a1ng Phan Huy",
+                        "offset": 0,
+                        "type": "user"
+                     }
+                  ],
+                  "user_likes": false,
+                  "id": "4594264800644553_4594292333975133"
+               },
+               {
+                  "created_time": "2020-11-03T11:10:55+0000",
+                  "message": "Nguy\u1ec5n Vi\u1ec7t D\u0169ng ng",
+                  "can_remove": false,
+                  "like_count": 1,
+                  "message_tags": [
+                     {
+                        "id": "100048750291146",
+                        "length": 16,
+                        "name": "Nguy\u1ec5n Vi\u1ec7t D\u0169ng",
+                        "offset": 0,
+                        "type": "user"
+                     }
+                  ],
+                  "user_likes": false,
+                  "id": "4594264800644553_4594493497288350"
+               },
+               {
+                  "created_time": "2020-11-04T11:10:42+0000",
+                  "message": "Ph\u1ea1m Quang Huy t\u00f9ng \u00e0k suy ngh\u0129 th\u00eam \u0111i",
+                  "can_remove": false,
+                  "like_count": 1,
+                  "message_tags": [
+                     {
+                        "id": "100015876881870",
+                        "length": 14,
+                        "name": "Ph\u1ea1m Quang Huy",
+                        "offset": 0,
+                        "type": "user"
+                     }
+                  ],
+                  "user_likes": false,
+                  "id": "4594264800644553_4598669563537410"
+               },
+               {
+                  "created_time": "2020-11-03T10:56:31+0000",
+                  "message": "D\u01b0\u01a1ng Ph\u1ea1m Qu\u1ed1c b\u1ea1n \u01a1iii l\u00e0m li\u1ec1n \u0111i",
+                  "can_remove": false,
+                  "like_count": 1,
+                  "message_tags": [
+                     {
+                        "id": "100003949394320",
+                        "length": 15,
+                        "name": "Ph\u1ea1m Qu\u1ed1c D\u01b0\u01a1ng",
+                        "offset": 0,
+                        "type": "user"
+                     }
+                  ],
+                  "user_likes": false,
+                  "id": "4594264800644553_4594449187292781"
+               },
+               {
+                  "created_time": "2020-11-03T12:04:42+0000",
+                  "message": "\u0110\u1ed7 Minh \u0110\u1ee9c \u0110\u1ed7",
+                  "can_remove": false,
+                  "like_count": 1,
+                  "message_tags": [
+                     {
+                        "id": "100020813741399",
+                        "length": 11,
+                        "name": "Minh \u0110\u1ee9c \u0110\u1ed7",
+                        "offset": 3,
+                        "type": "user"
+                     }
+                  ],
+                  "user_likes": false,
+                  "id": "4594264800644553_4594661753938191"
+               },
+               {
+                  "created_time": "2020-11-04T14:39:54+0000",
+                  "message": "Ngoc Pham r\u00fat k\u00eca mi",
+                  "can_remove": false,
+                  "like_count": 1,
+                  "message_tags": [
+                     {
+                        "id": "100030054976532",
+                        "length": 9,
+                        "name": "Ngoc Pham",
+                        "offset": 0,
+                        "type": "user"
+                     }
+                  ],
+                  "user_likes": false,
+                  "id": "4594264800644553_4599364793467887"
+               },
+               {
+                  "created_time": "2020-11-03T12:00:53+0000",
+                  "message": "Linh Di\u1ec7u c\u00f3 n\u00ean r\u00fat TD k",
+                  "can_remove": false,
+                  "like_count": 1,
+                  "message_tags": [
+                     {
+                        "id": "100012862420397",
+                        "length": 9,
+                        "name": "Di\u1ec7u Linh",
+                        "offset": 0,
+                        "type": "user"
+                     }
+                  ],
+                  "user_likes": false,
+                  "id": "4594264800644553_4594650183939348"
+               },
+               {
+                  "created_time": "2020-11-03T16:19:44+0000",
+                  "message": "Th\u1ee9 Thu Hi\u1ec1n Hu\u1ef3nh Nh\u01b0 2 b\u1ea1n ngh\u0129 sao v\u1ec1 NLTK? ",
+                  "can_remove": false,
+                  "like_count": 1,
+                  "message_tags": [
+                     {
+                        "id": "100004628116717",
+                        "length": 8,
+                        "name": "Thu Hi\u1ec1n",
+                        "offset": 4,
+                        "type": "user"
+                     },
+                     {
+                        "id": "100008817482164",
+                        "length": 9,
+                        "name": "Hu\u1ef3nh Nh\u01b0",
+                        "offset": 13,
+                        "type": "user"
+                     }
+                  ],
+                  "user_likes": false,
+                  "id": "4594264800644553_4595556347182065"
+               },
+               {
+                  "created_time": "2020-11-12T09:52:29+0000",
+                  "message": "Ho\u00e0ng Long",
+                  "can_remove": false,
+                  "like_count": 1,
+                  "message_tags": [
+                     {
+                        "id": "100011097254693",
+                        "length": 10,
+                        "name": "Ho\u00e0ng Long",
+                        "offset": 0,
+                        "type": "user"
+                     }
+                  ],
+                  "user_likes": false,
+                  "id": "4594264800644553_4633890433348656"
+               }
+            ],
+            "paging": {
+               "cursors": {
+                  "before": "MTUZD",
+                  "after": "MQZDZD"
+               }
+            }
+         },
+         "from": {
+            "name": "H\u1ed9i Qu\u00e1n Sinh Vi\u00ean \u0110\u1ea1i H\u1ecdc Giao Th\u00f4ng V\u1eadn T\u1ea3i Ph\u00e2n hi\u1ec7u t\u1ea1i TP.HCM",
+            "category": "College & University",
+            "category_list": [
+               {
+                  "id": "2602",
+                  "name": "College & University"
+               },
+               {
+                  "id": "2601",
+                  "name": "School"
+               }
+            ],
+            "id": "188779444526466"
+         },
+         "icon": "https://www.facebook.com/images/icons/photo.gif",
+         "is_hidden": false,
+         "is_expired": false,
+         "link": "https://www.facebook.com/SV.UTC2/photos/a.188823344522076/4594264487311251/?type=3",
+         "message_tags": {
+            "1076": [
+               {
+                  "id": 273866919413915,
+                  "name": "#LP",
+                  "offset": 1076,
+                  "length": 3
+               }
+            ]
+         },
+         "object_id": "4594264487311251",
+         "picture": "https://scontent.fsgn6-1.fna.fbcdn.net/v/t1.0-0/s130x130/123322195_4594264490644584_5939961060826707839_o.jpg?_nc_cat=110&ccb=1-3&_nc_sid=8024bb&_nc_ohc=TldJcCgxeF0AX_rzt47&_nc_ht=scontent.fsgn6-1.fna&tp=7&oh=0ded04980020c5f861779fb914756953&oe=607D2B96",
+         "privacy": {
+            "allow": "",
+            "deny": "",
+            "description": "Public",
+            "friends": "",
+            "value": "EVERYONE"
+         },
+         "shares": {
+            "count": 11
+         },
+         "status_type": "added_photos",
+         "subscribed": false,
+         "to": {
+            "data": [
+               {
+                  "id": "273866919413915",
+                  "name": "#LP"
+               }
+            ]
+         },
+         "type": "photo",
+         "updated_time": "2020-12-07T11:38:16+0000",
+         "id": "188779444526466_4594264800644553"
+      },
+      {
+         "created_time": "2020-11-02T06:02:16+0000",
+         "message": "[R\u01a1i - Nh\u1eb7t]\nB\u1ea1n n\u00e0o l\u00e0m r\u1edbi th\u1ebb ng\u00e2n h\u00e0ng \u1edf nh\u00e0 xe li\u00ean h\u1ec7 s\u0111t sau \u0111\u1ec3 nh\u1eadn l\u1ea1i nh\u00e9 0868607 n\u0103m kh\u00f4ng ba.",
+         "actions": [
+            {
+               "name": "Like",
+               "link": "https://www.facebook.com/188779444526466/posts/4589289767808723/"
+            },
+            {
+               "name": "Comment",
+               "link": "https://www.facebook.com/188779444526466/posts/4589289767808723/"
+            }
+         ],
+         "from": {
+            "name": "H\u1ed9i Qu\u00e1n Sinh Vi\u00ean \u0110\u1ea1i H\u1ecdc Giao Th\u00f4ng V\u1eadn T\u1ea3i Ph\u00e2n hi\u1ec7u t\u1ea1i TP.HCM",
+            "category": "College & University",
+            "category_list": [
+               {
+                  "id": "2602",
+                  "name": "College & University"
+               },
+               {
+                  "id": "2601",
+                  "name": "School"
+               }
+            ],
+            "id": "188779444526466"
+         },
+         "icon": "https://www.facebook.com/images/icons/photo.gif",
+         "is_hidden": false,
+         "is_expired": false,
+         "link": "https://www.facebook.com/SV.UTC2/photos/a.188823344522076/4589287551142278/?type=3",
+         "object_id": "4589287551142278",
+         "picture": "https://scontent.fsgn6-1.fna.fbcdn.net/v/t1.0-0/s130x130/123098665_4589287557808944_6448006777909396303_n.jpg?_nc_cat=110&ccb=1-3&_nc_sid=8024bb&_nc_ohc=jXahAcp7GmoAX_YeeF7&_nc_ht=scontent.fsgn6-1.fna&tp=7&oh=fdee46529d4622c03ef373af9d09f497&oe=607F7B10",
+         "privacy": {
+            "allow": "",
+            "deny": "",
+            "description": "Public",
+            "friends": "",
+            "value": "EVERYONE"
+         },
+         "status_type": "added_photos",
+         "subscribed": false,
+         "type": "photo",
+         "updated_time": "2020-11-02T06:02:16+0000",
+         "id": "188779444526466_4589289767808723"
+      },
+      {
+         "created_time": "2020-11-02T02:20:56+0000",
+         "message": "Th\u00f4ng b\u00e1o t\u1ed5 ch\u1ee9c L\u1ec5 trao b\u1eb1ng t\u1ed1t nghi\u1ec7p \u0111\u1ea1i h\u1ecdc \u0111\u1ee3t th\u00e1ng 11 n\u0103m 2020\n\ud83d\udc49  Th\u1eddi gian: T\u1eeb 07h30 - 17h00, Ch\u1ee7 nh\u1eadt ng\u00e0y 08/11/2020.\n\ud83d\udc49  M\u1ed7i sinh vi\u00ean s\u1ebd \u0111\u01b0\u1ee3c nh\u1eadn 01 b\u00eca s\u01a1 mi b\u1eb1ng t\u1ed1t nghi\u1ec7p, 01 b\u1ea3ng \u0111i\u1ec3m g\u1ed1c v\u00e0 05 b\u1ea3n sao c\u00f3 ch\u1ee9ng th\u1ef1c.\n\ud83d\udc49 Kinh ph\u00ed nh\u1eadn b\u1eb1ng 150.000 \u0111\u1ed3ng/sinh vi\u00ean. C\u00e1c b\u1ea1n sinh vi\u00ean n\u1ed9p ti\u1ec1n tr\u1ef1c ti\u1ebfp t\u1ea1i Ph\u00f2ng T\u00e0i ch\u00ednh - K\u1ebf to\u00e1n (Ph\u00f2ng 8D3) t\u1eeb 07h30 ng\u00e0y 05/11/2020 \u0111\u1ebfn 17h00 ng\u00e0y 06/11/2020 v\u00e0 xu\u1ea5t tr\u00ecnh bi\u00ean lai n\u1ed9p ti\u1ec1n khi l\u00e0m th\u1ee7 t\u1ee5c k\u00fd s\u1ed5 nh\u1eadn b\u1eb1ng.\n\ud83d\udc49  T\u1ea5t c\u1ea3 sinh vi\u00ean th\u1ef1c hi\u1ec7n kh\u1ea3o s\u00e1t kh\u00f3a h\u1ecdc th\u00f4ng qua link: https://forms.gle/2NRMxrJ4qtYgNRG58 . Nh\u1eefng sinh vi\u00ean kh\u00f4ng c\u00f3 CMND v\u00e0 th\u1ebb sinh vi\u00ean, kh\u00f4ng k\u00fd s\u1ed5 nh\u1eadn B\u1eb1ng t\u1ed1t nghi\u1ec7p, kh\u00f4ng th\u1ef1c hi\u1ec7n kh\u1ea3o s\u00e1t s\u1ebd kh\u00f4ng \u0111\u01b0\u1ee3c trao b\u1eb1ng t\u1ea1i bu\u1ed5i l\u1ec5.\n\n#LP",
+         "actions": [
+            {
+               "name": "Like",
+               "link": "https://www.facebook.com/188779444526466/posts/4588644644539902/"
+            },
+            {
+               "name": "Comment",
+               "link": "https://www.facebook.com/188779444526466/posts/4588644644539902/"
+            }
+         ],
+         "comments": {
+            "data": [
+               {
+                  "created_time": "2020-11-02T02:49:37+0000",
+                  "message": "\u00d4i c\u00e1i b\u1eb1ng m\u00e0 t\u1eeb 16 n\u0103m tr\u01b0\u1edbc tr\u1ea7y tr\u1eadt \u0111\u1ec3 c\u00f3 n\u00f3",
+                  "can_remove": false,
+                  "like_count": 2,
+                  "user_likes": false,
+                  "id": "4588644644539902_4588726941198339"
+               },
+               {
+                  "created_time": "2020-11-02T03:21:08+0000",
+                  "message": "Nguy\u1ec5n Minh Hi\u1ebfu  P\u00e9 Thi\u1ec7n honga h\u00f3ng\ud83d\ude2a\ud83d\ude2a",
+                  "can_remove": false,
+                  "like_count": 0,
+                  "message_tags": [
+                     {
+                        "id": "100015520547836",
+                        "length": 16,
+                        "name": "Nguy\u1ec5n Minh Hi\u1ebfu",
+                        "offset": 0,
+                        "type": "user"
+                     },
+                     {
+                        "id": "100022553150335",
+                        "length": 8,
+                        "name": "P\u00e9 Thi\u1ec7n",
+                        "offset": 18,
+                        "type": "user"
+                     }
+                  ],
+                  "user_likes": false,
+                  "id": "4588644644539902_4588815407856159"
+               },
+               {
+                  "created_time": "2020-11-02T13:25:52+0000",
+                  "message": "Tr\u01b0\u1eddng l\u00e0m ki\u1ec3u nh\u01b0 ai c\u0169ng \u201c R\u00ccNH R\u1eacP\u201d s\u1eb5n s\u00e0ng l\u00ean tr\u01b0\u1eddng \u0111\u1ec3 k\u00ed nh\u1eadn r\u1ed3i l\u00e0m l\u1ec5 t\u1ed1t nghi\u1ec7p v\u1eady. L\u00e0m l\u1ec5 th\u1ee7 t\u1ee5c trao b\u1eb1ng t\u1ed1t nghi\u1ec7p ki\u1ec3u v\u1eady th\u00ec nh\u1eefng b\u1ea1n \u0111i l\u00e0m xa l\u00e0m sao ngh\u1ec9 \u0111\u01b0\u1ee3c m\u00e0 \u0111i v\u00e0o k\u00fd nh\u1eadn xong r\u1ed3i n\u1eb1m ch\u1edd v\u00e0i ng\u00e0y \u0111\u1ec3 \u0111\u01b0\u1ee3c l\u00e0m l\u1ec5 dc. !!!",
+                  "can_remove": false,
+                  "like_count": 6,
+                  "user_likes": false,
+                  "id": "4588644644539902_4590557061015327"
+               },
+               {
+                  "created_time": "2020-11-02T02:38:37+0000",
+                  "message": "Nguy\u1ec5n Qu\u1ef3nh T\u1ea5n \u0111\u00f3ng ti\u1ec1n c\u00f3 b\u1eb1ng k\u00eca",
+                  "can_remove": false,
+                  "like_count": 0,
+                  "message_tags": [
+                     {
+                        "id": "100011379905430",
+                        "length": 16,
+                        "name": "Nguy\u1ec5n Qu\u1ef3nh T\u1ea5n",
+                        "offset": 0,
+                        "type": "user"
+                     }
+                  ],
+                  "user_likes": false,
+                  "id": "4588644644539902_4588693967868303"
+               },
+               {
+                  "created_time": "2020-11-02T02:23:20+0000",
+                  "message": "Hu\u1ef3nh Anh \u0110\u00e0o b\u00e0 c\u00f3 th\u1ea5y c\u00e1i tui th\u1ea5y k ",
+                  "can_remove": false,
+                  "like_count": 0,
+                  "message_tags": [
+                     {
+                        "id": "100004523806953",
+                        "length": 13,
+                        "name": "Hu\u1ef3nh Anh \u0110\u00e0o",
+                        "offset": 0,
+                        "type": "user"
+                     }
+                  ],
+                  "user_likes": false,
+                  "id": "4588644644539902_4588650687872631"
+               },
+               {
+                  "created_time": "2020-11-13T22:56:37+0000",
+                  "message": "A/e nao chua co viec lam thi lien he minh !",
+                  "can_remove": false,
+                  "like_count": 0,
+                  "user_likes": false,
+                  "id": "4588644644539902_4641057759298590"
+               },
+               {
+                  "created_time": "2020-11-02T13:43:03+0000",
+                  "message": "V\u1eady \u00fd l\u00e0 nh\u00e0 tr\u01b0\u1eddng kh\u00f4ng mu\u1ed1n cho t\u1ee5i em \u0111\u01b0\u1ee3c tham d\u1ef1 l\u1ec5 nh\u1eadn b\u1eb1ng ph\u1ea3i kh\u00f4ng \u1ea1? L\u1ecbch chia ra 2 bu\u1ed5i c\u00e1ch xa nhau nh\u01b0 v\u1eady nh\u1eefng \u0111\u1ee9a \u1edf t\u1ec9nh xa nh\u01b0 em ph\u1ea3i l\u00e0m sao \u0111\u00e2y!??",
+                  "can_remove": false,
+                  "like_count": 5,
+                  "user_likes": false,
+                  "id": "4588644644539902_4590617767675923"
+               },
+               {
+                  "created_time": "2020-11-02T03:30:46+0000",
+                  "message": "Hu\u1ef3nh Ti\u1ebfn l\u00e0m \u0111i",
+                  "can_remove": false,
+                  "like_count": 1,
+                  "message_tags": [
+                     {
+                        "id": "100010199927421",
+                        "length": 10,
+                        "name": "Tien Huynh Le",
+                        "offset": 0,
+                        "type": "user"
+                     }
+                  ],
+                  "user_likes": false,
+                  "id": "4588644644539902_4588841101186923"
+               },
+               {
+                  "created_time": "2020-11-02T06:26:29+0000",
+                  "message": "Qu\u00e2n Qb c\u00f3 m\u1eddi m\u00ecnh ko",
+                  "can_remove": false,
+                  "like_count": 0,
+                  "message_tags": [
+                     {
+                        "id": "100006522636202",
+                        "length": 7,
+                        "name": "Qu\u00e2n Qb",
+                        "offset": 0,
+                        "type": "user"
+                     }
+                  ],
+                  "user_likes": false,
+                  "id": "4588644644539902_4589354161135617"
+               },
+               {
+                  "created_time": "2020-11-02T02:54:46+0000",
+                  "message": "Nam Hai ch\u1eafc l\u1ea1i nh\u1edd b\u1ea1n l\u00ean \u0111\u00f3ng ti\u1ec1n d\u00f9m zoi :))))",
+                  "can_remove": false,
+                  "like_count": 0,
+                  "message_tags": [
+                     {
+                        "id": "100003512385520",
+                        "length": 7,
+                        "name": "Nam Hai",
+                        "offset": 0,
+                        "type": "user"
+                     }
+                  ],
+                  "user_likes": false,
+                  "id": "4588644644539902_4588743974529969"
+               },
+               {
+                  "created_time": "2020-11-02T05:30:40+0000",
+                  "message": "\u0110\u1ee3t n\u00e0y c\u00f3 a \u00e0 Nguy\u1ec5n V\u0103n B\u00ecnh",
+                  "can_remove": false,
+                  "like_count": 0,
+                  "message_tags": [
+                     {
+                        "id": "100005344064651",
+                        "length": 15,
+                        "name": "Nguy\u1ec5n V\u0103n B\u00ecnh",
+                        "offset": 15,
+                        "type": "user"
+                     }
+                  ],
+                  "user_likes": false,
+                  "id": "4588644644539902_4589195871151446"
+               },
+               {
+                  "created_time": "2020-11-05T11:02:43+0000",
+                  "message": "H\u1ea1nh H\u1ed3ng n\u00e8 m",
+                  "can_remove": false,
+                  "like_count": 0,
+                  "message_tags": [
+                     {
+                        "id": "100008606402819",
+                        "length": 9,
+                        "name": "H\u1ed3ng H\u1ea1nh",
+                        "offset": 0,
+                        "type": "user"
+                     }
+                  ],
+                  "user_likes": false,
+                  "id": "4588644644539902_4602919689779064"
+               },
+               {
+                  "created_time": "2020-11-02T03:29:36+0000",
+                  "message": "Tr\u00fac Th\u1ecb Thanh L\u00ea Y\u1ebfn Ju Nguy\u1ec5n Th\u1ecb Minh Th\u01b0 Ph\u1ea1m H\u1ed3ng Huy\u00ean",
+                  "can_remove": false,
+                  "like_count": 1,
+                  "message_tags": [
+                     {
+                        "id": "100023282734382",
+                        "length": 17,
+                        "name": "L\u00ea Th\u1ecb Thanh Tr\u00fac",
+                        "offset": 0,
+                        "type": "user"
+                     },
+                     {
+                        "id": "100012914792637",
+                        "length": 6,
+                        "name": "Y\u1ebfn Ju",
+                        "offset": 18,
+                        "type": "user"
+                     },
+                     {
+                        "id": "100014055272767",
+                        "length": 19,
+                        "name": "Nguy\u1ec5n Th\u1ecb Minh Th\u01b0",
+                        "offset": 25,
+                        "type": "user"
+                     },
+                     {
+                        "id": "100007733133712",
+                        "length": 15,
+                        "name": "Ph\u1ea1m H\u1ed3ng Huy\u00ean",
+                        "offset": 45,
+                        "type": "user"
+                     }
+                  ],
+                  "user_likes": false,
+                  "id": "4588644644539902_4588837824520584"
+               },
+               {
+                  "created_time": "2020-11-02T02:28:15+0000",
+                  "message": "Z l\u00e0 ph\u1ea3i l\u00ean tr\u01b0\u1edbc 2 ng\u00e0y \u0111\u1ec3 k\u00ed s\u1ed5, r\u1ed3i \u1edf l\u1ea1i 2 ng\u00e0y sau m\u1edbi \u0111c l\u00e3nh b\u1eb1ng? Thanh Lam Nguy\u00ean Khoa t\u1ee5i m\u00ecnh \u0111\u1ee3t \u0111\u00f3 h\u00ean gh\u00ea, hk c\u00f3 kh\u00f3 nh\u01b0 h, b\u1eaft l\u00ean trc 2 ng\u00e0y c\u00f3 khi k \u0111c m\u1ea5y ng.",
+                  "can_remove": false,
+                  "like_count": 3,
+                  "message_tags": [
+                     {
+                        "id": "100005682302111",
+                        "length": 16,
+                        "name": "Thanh Lam Nguy\u00ean",
+                        "offset": 76,
+                        "type": "user"
+                     },
+                     {
+                        "id": "100004263963165",
+                        "length": 4,
+                        "name": "Khoa",
+                        "offset": 93,
+                        "type": "user"
+                     }
+                  ],
+                  "user_likes": false,
+                  "id": "4588644644539902_4588663767871323"
+               },
+               {
+                  "created_time": "2020-11-02T03:10:42+0000",
+                  "message": "Khi\u00eam T Th\u00e2n",
+                  "can_remove": false,
+                  "like_count": 1,
+                  "message_tags": [
+                     {
+                        "id": "100009038608143",
+                        "length": 12,
+                        "name": "Th\u00e2n Khi\u00eam",
+                        "offset": 0,
+                        "type": "user"
+                     }
+                  ],
+                  "user_likes": false,
+                  "id": "4588644644539902_4588788144525552"
+               },
+               {
+                  "created_time": "2020-11-02T04:55:20+0000",
+                  "message": "\u0110\u00ecnh Khoa",
+                  "can_remove": false,
+                  "like_count": 0,
+                  "message_tags": [
+                     {
+                        "id": "100009356569243",
+                        "length": 9,
+                        "name": "\u0110\u00ecnh Khoa",
+                        "offset": 0,
+                        "type": "user"
+                     }
+                  ],
+                  "user_likes": false,
+                  "id": "4588644644539902_4589092881161745"
+               },
+               {
+                  "created_time": "2020-11-02T03:01:18+0000",
+                  "message": "Nguy\u1ec5n Tr Nguy\u00ean",
+                  "can_remove": false,
+                  "like_count": 0,
+                  "message_tags": [
+                     {
+                        "id": "100006632412267",
+                        "length": 16,
+                        "name": "Nguy\u1ec5n Tr Nguy\u00ean",
+                        "offset": 0,
+                        "type": "user"
+                     }
+                  ],
+                  "user_likes": false,
+                  "id": "4588644644539902_4588761614528205"
+               },
+               {
+                  "created_time": "2020-11-04T13:02:58+0000",
+                  "message": "Th\u00e1i Vi\u1ec7t",
+                  "can_remove": false,
+                  "like_count": 1,
+                  "message_tags": [
+                     {
+                        "id": "100003147694342",
+                        "length": 9,
+                        "name": "Th\u00e1i Vi\u1ec7t",
+                        "offset": 0,
+                        "type": "user"
+                     }
+                  ],
+                  "user_likes": false,
+                  "id": "4588644644539902_4599020256835674"
+               },
+               {
+                  "created_time": "2020-11-02T02:40:14+0000",
+                  "message": "L\u00ea H\u1eefu C\u01b0\u1eddng ra tr\u01b0\u1eddng ch\u01b0a anh? ",
+                  "can_remove": false,
+                  "like_count": 0,
+                  "message_tags": [
+                     {
+                        "id": "100005397769243",
+                        "length": 12,
+                        "name": "L\u00ea H\u1eefu C\u01b0\u1eddng",
+                        "offset": 0,
+                        "type": "user"
+                     }
+                  ],
+                  "user_likes": false,
+                  "id": "4588644644539902_4588699564534410"
+               },
+               {
+                  "created_time": "2020-11-02T03:13:31+0000",
+                  "message": "\u0110\u00e0o Duy C\u01b0\u1eddngng",
+                  "can_remove": false,
+                  "like_count": 1,
+                  "message_tags": [
+                     {
+                        "id": "100005962355901",
+                        "length": 13,
+                        "name": "\u0110\u00e0o Duy C\u01b0\u1eddng",
+                        "offset": 0,
+                        "type": "user"
+                     }
+                  ],
+                  "user_likes": false,
+                  "id": "4588644644539902_4588795421191491"
+               },
+               {
+                  "created_time": "2020-11-02T03:58:47+0000",
+                  "message": "Ki\u1ec7t Tu\u1ea5n",
+                  "can_remove": false,
+                  "like_count": 0,
+                  "message_tags": [
+                     {
+                        "id": "100004289345773",
+                        "length": 9,
+                        "name": "Tu\u1ea5n Ki\u1ec7t",
+                        "offset": 0,
+                        "type": "user"
+                     }
+                  ],
+                  "user_likes": false,
+                  "id": "4588644644539902_4588924201178613"
+               },
+               {
+                  "created_time": "2020-11-02T02:30:00+0000",
+                  "message": "Thanh Tr\u00fac H\u00f3ng",
+                  "can_remove": false,
+                  "like_count": 0,
+                  "message_tags": [
+                     {
+                        "id": "100006731523967",
+                        "length": 10,
+                        "name": "Thanh Tr\u00fac",
+                        "offset": 0,
+                        "type": "user"
+                     }
+                  ],
+                  "user_likes": false,
+                  "id": "4588644644539902_4588669194537447"
+               },
+               {
+                  "created_time": "2020-11-03T04:08:50+0000",
+                  "message": "Ph\u1ea1m H\u1ed3ng Huy\u00ean\ud83d\ude02\ud83d\ude02",
+                  "can_remove": false,
+                  "like_count": 0,
+                  "message_tags": [
+                     {
+                        "id": "100007733133712",
+                        "length": 15,
+                        "name": "Ph\u1ea1m H\u1ed3ng Huy\u00ean",
+                        "offset": 0,
+                        "type": "user"
+                     }
+                  ],
+                  "user_likes": false,
+                  "id": "4588644644539902_4593288207408879"
+               },
+               {
+                  "created_time": "2020-11-02T02:48:29+0000",
+                  "message": "ute =100k",
+                  "can_remove": false,
+                  "like_count": 1,
+                  "user_likes": false,
+                  "id": "4588644644539902_4588723551198678"
+               },
+               {
+                  "created_time": "2020-11-02T07:28:42+0000",
+                  "message": "Nguy\u1ec5n Ph\u00fa \u0110\u1ea1i Chu B\u1ea3o Ng\u1ecdc Tb",
+                  "can_remove": false,
+                  "like_count": 0,
+                  "message_tags": [
+                     {
+                        "id": "100007498354440",
+                        "length": 14,
+                        "name": "Nguy\u1ec5n Ph\u00fa \u0110\u1ea1i",
+                        "offset": 0,
+                        "type": "user"
+                     },
+                     {
+                        "id": "100010622196407",
+                        "length": 15,
+                        "name": "Chu B\u1ea3o Ng\u1ecdc Tb",
+                        "offset": 15,
+                        "type": "user"
+                     }
+                  ],
+                  "user_likes": false,
+                  "id": "4588644644539902_4589510704453296"
+               }
+            ],
+            "paging": {
+               "cursors": {
+                  "before": "MjkZD",
+                  "after": "NQZDZD"
+               },
+               "next": "https://graph.facebook.com/v1.0/188779444526466_4588644644539902/comments?access_token=EAAAAZAw4FxQIBAJt3XuLdiMUOCHAWUtjSe01TRhXlZCj8CYpgagB93AuMQoQvi91zbx7hbBVSbUJLSnjguJMKMZBbqIVsB4CiTZCHZCTYZB7IoOZBgUcHg4PBcjTGfQ0NbovS6a5zzr0icu2QBoUtaN0C4bf8r8aVCmZB4RiMYoicuqIn3k7AUOX&pretty=1&limit=25&after=NQZDZD"
+            }
+         },
+         "from": {
+            "name": "H\u1ed9i Qu\u00e1n Sinh Vi\u00ean \u0110\u1ea1i H\u1ecdc Giao Th\u00f4ng V\u1eadn T\u1ea3i Ph\u00e2n hi\u1ec7u t\u1ea1i TP.HCM",
+            "category": "College & University",
+            "category_list": [
+               {
+                  "id": "2602",
+                  "name": "College & University"
+               },
+               {
+                  "id": "2601",
+                  "name": "School"
+               }
+            ],
+            "id": "188779444526466"
+         },
+         "icon": "https://www.facebook.com/images/icons/photo.gif",
+         "is_hidden": false,
+         "is_expired": false,
+         "link": "https://www.facebook.com/SV.UTC2/photos/a.188823344522076/4588636831207350/?type=3",
+         "message_tags": {
+            "723": [
+               {
+                  "id": 273866919413915,
+                  "name": "#LP",
+                  "offset": 723,
+                  "length": 3
+               }
+            ]
+         },
+         "object_id": "4588636831207350",
+         "picture": "https://scontent.fsgn6-1.fna.fbcdn.net/v/t1.0-0/s130x130/123198227_4588636837874016_3347832874629860636_o.jpg?_nc_cat=107&ccb=1-3&_nc_sid=8024bb&_nc_ohc=RkzSTiyZ1lwAX83CykJ&_nc_ht=scontent.fsgn6-1.fna&tp=7&oh=7069557c7402e67c2a242790d2811f4c&oe=607D3BEE",
+         "privacy": {
+            "allow": "",
+            "deny": "",
+            "description": "Public",
+            "friends": "",
+            "value": "EVERYONE"
+         },
+         "shares": {
+            "count": 12
+         },
+         "status_type": "added_photos",
+         "subscribed": false,
+         "to": {
+            "data": [
+               {
+                  "id": "273866919413915",
+                  "name": "#LP"
+               }
+            ]
+         },
+         "type": "photo",
+         "updated_time": "2020-11-14T14:26:33+0000",
+         "id": "188779444526466_4588644644539902"
+      },
+      {
+         "created_time": "2020-10-29T09:04:01+0000",
+         "message": "[R\u01a1i - Nh\u1eb7t]\nB\u1ea1n n\u00e0o th\u1ea5t l\u1ea1c m\u00e1y t\u00ednnh nh\u01b0 h\u00ecnh li\u00ean h\u1ec7 Ho\u00e0ng Kinh t\u1ebf x\u00e2y d\u1ef1ng k58 \u0111\u1ec3 nh\u1eadn l\u1ea1i nh\u00e9 s\u0111t:035 3193463",
+         "actions": [
+            {
+               "name": "Like",
+               "link": "https://www.facebook.com/188779444526466/posts/4572065729531127/"
+            },
+            {
+               "name": "Comment",
+               "link": "https://www.facebook.com/188779444526466/posts/4572065729531127/"
+            }
+         ],
+         "comments": {
+            "data": [
+               {
+                  "created_time": "2020-10-29T15:07:38+0000",
+                  "message": "Minh Ho\u00e0ng r\u1ed3i \u0111\u00e3 ai li\u00ean l\u1ea1c ch\u01b0a b \u01a1i",
+                  "can_remove": false,
+                  "like_count": 0,
+                  "user_likes": false,
+                  "id": "4572065729531127_4573257146078652"
+               },
+               {
+                  "created_time": "2020-10-29T09:14:38+0000",
+                  "message": "Minh Ho\u00e0ng",
+                  "can_remove": false,
+                  "like_count": 0,
+                  "user_likes": false,
+                  "id": "4572065729531127_4572095192861514"
+               }
+            ],
+            "paging": {
+               "cursors": {
+                  "before": "MgZDZD",
+                  "after": "MQZDZD"
+               }
+            }
+         },
+         "from": {
+            "name": "H\u1ed9i Qu\u00e1n Sinh Vi\u00ean \u0110\u1ea1i H\u1ecdc Giao Th\u00f4ng V\u1eadn T\u1ea3i Ph\u00e2n hi\u1ec7u t\u1ea1i TP.HCM",
+            "category": "College & University",
+            "category_list": [
+               {
+                  "id": "2602",
+                  "name": "College & University"
+               },
+               {
+                  "id": "2601",
+                  "name": "School"
+               }
+            ],
+            "id": "188779444526466"
+         },
+         "icon": "https://www.facebook.com/images/icons/photo.gif",
+         "is_hidden": false,
+         "is_expired": false,
+         "link": "https://www.facebook.com/SV.UTC2/photos/a.707966249274447/4572065669531133/?type=3",
+         "object_id": "4572065669531133",
+         "picture": "https://scontent.fsgn6-1.fna.fbcdn.net/v/t1.0-0/s130x130/122752841_4572065676197799_3688704320427546318_o.jpg?_nc_cat=103&ccb=1-3&_nc_sid=110474&_nc_ohc=mvA4VJy0mtIAX8v-wUJ&_nc_ht=scontent.fsgn6-1.fna&tp=7&oh=d25e4979e89f50f879eb66a19cf29184&oe=607CE04C",
+         "privacy": {
+            "allow": "",
+            "deny": "",
+            "description": "Public",
+            "friends": "",
+            "value": "EVERYONE"
+         },
+         "status_type": "added_photos",
+         "subscribed": false,
+         "type": "photo",
+         "updated_time": "2020-10-29T15:07:38+0000",
+         "id": "188779444526466_4572065729531127"
+      }
+   ],
+   "paging": {
+      "cursors": {
+         "before": "QVFIUjFMMEJrdEkxNG0yOHBaVmZAwTkdXOWNCcFhBZAnQ4WkpYd2FZAN2prNVlwck1ibmR5aVdMMDFIdHB4Q1ZASVVVmQWxna1hPQi1ISkQxUlRhaU5rU0hqRkVlWGNHVnhWdEM2cW9yVHh2cWZAJajBWZATJic3VneFBwT3dlLTktNEJuU2NZA",
+         "after": "QVFIUjZAndkxZAQ2l1czVZAb0lyVTctbVhXYVFHdTB2ZAjk5d1I3ZA0p0SFlQdnZAsMEx1UmVuenRkSEdsdWlQZA2J5ZA2k0VUtlbkRFXzRqYTlENmVKUnVrS2p0N0ZAJaDZAEVGd3elRHUUo0U3R0bWxiXzBON2RnWTAtdU9YcnA2UmJ1VVhtV3h6"
+      },
+      "next": "https://graph.facebook.com/v1.0/188779444526466/posts?access_token=EAAAAZAw4FxQIBAJt3XuLdiMUOCHAWUtjSe01TRhXlZCj8CYpgagB93AuMQoQvi91zbx7hbBVSbUJLSnjguJMKMZBbqIVsB4CiTZCHZCTYZB7IoOZBgUcHg4PBcjTGfQ0NbovS6a5zzr0icu2QBoUtaN0C4bf8r8aVCmZB4RiMYoicuqIn3k7AUOX&pretty=1&limit=25&after=QVFIUjZAndkxZAQ2l1czVZAb0lyVTctbVhXYVFHdTB2ZAjk5d1I3ZA0p0SFlQdnZAsMEx1UmVuenRkSEdsdWlQZA2J5ZA2k0VUtlbkRFXzRqYTlENmVKUnVrS2p0N0ZAJaDZAEVGd3elRHUUo0U3R0bWxiXzBON2RnWTAtdU9YcnA2UmJ1VVhtV3h6"
+   }
+}
